@@ -1,5 +1,6 @@
 python-binance
 numpy
 pandas
-
-
+traceback
+deepdiff
+sqlite3
