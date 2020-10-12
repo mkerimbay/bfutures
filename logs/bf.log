@@ -1,1 +1,203 @@
-2020-10-07 12:10:24,973 - helper - INFO - test : 8 - hello world
+2020-10-12 10:00:03,294 - helper - INFO - helper : 214 - * EOSUSDT -> (23) klines added
+2020-10-12 10:00:03,553 - helper - INFO - helper : 214 - * SUSHIUSDT -> (25) klines added
+2020-10-12 10:00:03,804 - helper - INFO - helper : 214 - * BALUSDT -> (24) klines added
+2020-10-12 10:00:04,062 - helper - INFO - helper : 214 - * KNCUSDT -> (24) klines added
+2020-10-12 10:00:04,319 - helper - INFO - helper : 214 - * SRMUSDT -> (25) klines added
+2020-10-12 10:00:04,570 - helper - INFO - helper : 214 - * ENJUSDT -> (24) klines added
+2020-10-12 10:00:04,823 - helper - INFO - helper : 214 - * ZRXUSDT -> (24) klines added
+2020-10-12 10:00:05,082 - helper - INFO - helper : 214 - * QTUMUSDT -> (24) klines added
+2020-10-12 10:00:05,335 - helper - INFO - helper : 214 - * ATOMUSDT -> (25) klines added
+2020-10-12 10:00:06,243 - helper - INFO - helper : 214 - * IOTAUSDT -> (24) klines added
+2020-10-12 10:00:06,499 - helper - INFO - helper : 214 - * WAVESUSDT -> (24) klines added
+2020-10-12 10:00:06,757 - helper - INFO - helper : 214 - * ADAUSDT -> (25) klines added
+2020-10-12 10:00:07,015 - helper - INFO - helper : 214 - * BCHUSDT -> (24) klines added
+2020-10-12 10:00:07,274 - helper - INFO - helper : 214 - * XTZUSDT -> (23) klines added
+2020-10-12 10:00:07,527 - helper - INFO - helper : 214 - * BNBUSDT -> (24) klines added
+2020-10-12 10:00:07,785 - helper - INFO - helper : 214 - * IOSTUSDT -> (24) klines added
+2020-10-12 10:00:08,036 - helper - INFO - helper : 214 - * HNTUSDT -> (24) klines added
+2020-10-12 10:00:08,290 - helper - INFO - helper : 214 - * ETCUSDT -> (24) klines added
+2020-10-12 10:00:08,546 - helper - INFO - helper : 214 - * XMRUSDT -> (24) klines added
+2020-10-12 10:00:08,801 - helper - INFO - helper : 214 - * YFIUSDT -> (24) klines added
+2020-10-12 10:00:09,060 - helper - INFO - helper : 214 - * ZECUSDT -> (24) klines added
+2020-10-12 10:00:09,333 - helper - INFO - helper : 214 - * ETHUSDT -> (24) klines added
+2020-10-12 10:00:09,586 - helper - INFO - helper : 214 - * BZRXUSDT -> (25) klines added
+2020-10-12 10:00:09,846 - helper - INFO - helper : 214 - * BATUSDT -> (24) klines added
+2020-10-12 10:00:10,101 - helper - INFO - helper : 214 - * ALGOUSDT -> (24) klines added
+2020-10-12 10:00:10,353 - helper - INFO - helper : 214 - * DOGEUSDT -> (24) klines added
+2020-10-12 10:00:10,611 - helper - INFO - helper : 214 - * TRXUSDT -> (24) klines added
+2020-10-12 10:00:10,863 - helper - INFO - helper : 214 - * RLCUSDT -> (24) klines added
+2020-10-12 10:00:11,116 - helper - INFO - helper : 214 - * STORJUSDT -> (24) klines added
+2020-10-12 10:00:11,374 - helper - INFO - helper : 214 - * SNXUSDT -> (24) klines added
+2020-10-12 10:00:11,638 - helper - INFO - helper : 214 - * AVAXUSDT -> (24) klines added
+2020-10-12 10:00:11,896 - helper - INFO - helper : 214 - * XLMUSDT -> (24) klines added
+2020-10-12 10:00:12,151 - helper - INFO - helper : 214 - * NEOUSDT -> (24) klines added
+2020-10-12 10:00:12,409 - helper - INFO - helper : 214 - * MKRUSDT -> (24) klines added
+2020-10-12 10:00:12,661 - helper - INFO - helper : 214 - * DASHUSDT -> (24) klines added
+2020-10-12 10:00:12,918 - helper - INFO - helper : 214 - * THETAUSDT -> (24) klines added
+2020-10-12 10:00:13,179 - helper - INFO - helper : 214 - * KAVAUSDT -> (24) klines added
+2020-10-12 10:00:13,434 - helper - INFO - helper : 214 - * UNIUSDT -> (24) klines added
+2020-10-12 10:00:13,692 - helper - INFO - helper : 214 - * RUNEUSDT -> (24) klines added
+2020-10-12 10:00:13,952 - helper - INFO - helper : 214 - * LINKUSDT -> (24) klines added
+2020-10-12 10:00:14,181 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+Traceback (most recent call last):
+  File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
+    kl = client.get_klines(symbol=s, interval=interval)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 735, in get_klines
+    return self._get('klines', data=params)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 237, in _get
+    return self._request_api('get', path, signed, version, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 202, in _request_api
+    return self._request(method, uri, signed, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 197, in _request
+    return self._handle_response()
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
+    raise BinanceAPIException(self.response)
+binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
+2020-10-12 10:00:14,434 - helper - INFO - helper : 214 - * COMPUSDT -> (24) klines added
+2020-10-12 10:00:14,687 - helper - INFO - helper : 214 - * SOLUSDT -> (24) klines added
+2020-10-12 10:00:14,945 - helper - INFO - helper : 214 - * BTCUSDT -> (24) klines added
+2020-10-12 10:00:15,204 - helper - INFO - helper : 214 - * OMGUSDT -> (24) klines added
+2020-10-12 10:00:15,456 - helper - INFO - helper : 214 - * ICXUSDT -> (24) klines added
+2020-10-12 10:00:15,713 - helper - INFO - helper : 214 - * BLZUSDT -> (24) klines added
+2020-10-12 10:00:15,973 - helper - INFO - helper : 214 - * FTMUSDT -> (24) klines added
+2020-10-12 10:00:16,224 - helper - INFO - helper : 214 - * YFIIUSDT -> (24) klines added
+2020-10-12 10:00:16,475 - helper - INFO - helper : 214 - * LTCUSDT -> (24) klines added
+2020-10-12 10:00:16,734 - helper - INFO - helper : 214 - * BANDUSDT -> (24) klines added
+2020-10-12 10:00:16,986 - helper - INFO - helper : 214 - * XRPUSDT -> (24) klines added
+2020-10-12 10:00:17,240 - helper - INFO - helper : 214 - * SXPUSDT -> (24) klines added
+2020-10-12 10:00:17,500 - helper - INFO - helper : 214 - * CRVUSDT -> (24) klines added
+2020-10-12 10:00:17,752 - helper - INFO - helper : 214 - * DOTUSDT -> (24) klines added
+2020-10-12 10:00:18,010 - helper - INFO - helper : 214 - * EGLDUSDT -> (24) klines added
+2020-10-12 10:00:18,263 - helper - INFO - helper : 214 - * ONTUSDT -> (24) klines added
+2020-10-12 10:00:18,514 - helper - INFO - helper : 214 - * VETUSDT -> (24) klines added
+2020-10-12 10:00:18,766 - helper - INFO - helper : 214 - * TRBUSDT -> (24) klines added
+2020-10-12 10:00:19,024 - helper - INFO - helper : 214 - * ZILUSDT -> (24) klines added
+2020-10-12 10:00:19,490 - helper - INFO - helper : 214 - * FLMUSDT -> (24) klines added
+2020-10-12 10:53:57,877 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+Traceback (most recent call last):
+  File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
+    kl = client.get_klines(symbol=s, interval=interval)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 735, in get_klines
+    return self._get('klines', data=params)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 237, in _get
+    return self._request_api('get', path, signed, version, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 202, in _request_api
+    return self._request(method, uri, signed, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 197, in _request
+    return self._handle_response()
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
+    raise BinanceAPIException(self.response)
+binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
+2020-10-12 10:54:03,082 - helper - ERROR - helper : 86 - [Errno 2] No such file or directory: './data/master.json'
+Traceback (most recent call last):
+  File "/home/maxat_kerimbayev/bfutures/helper.py", line 84, in read_json
+    return json.load(open(fn))
+FileNotFoundError: [Errno 2] No such file or directory: './data/master.json'
+2020-10-12 10:54:03,586 - helper - INFO - helper : 169 -  denoms updated
+2020-10-12 11:00:13,650 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+Traceback (most recent call last):
+  File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
+    kl = client.get_klines(symbol=s, interval=interval)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 735, in get_klines
+    return self._get('klines', data=params)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 237, in _get
+    return self._request_api('get', path, signed, version, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 202, in _request_api
+    return self._request(method, uri, signed, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 197, in _request
+    return self._handle_response()
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
+    raise BinanceAPIException(self.response)
+binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
+2020-10-12 11:00:19,796 - helper - INFO - helper : 169 -  denoms updated
+2020-10-12 11:05:14,330 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+Traceback (most recent call last):
+  File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
+    kl = client.get_klines(symbol=s, interval=interval)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 735, in get_klines
+    return self._get('klines', data=params)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 237, in _get
+    return self._request_api('get', path, signed, version, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 202, in _request_api
+    return self._request(method, uri, signed, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 197, in _request
+    return self._handle_response()
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
+    raise BinanceAPIException(self.response)
+binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
+2020-10-12 11:05:19,832 - helper - INFO - helper : 169 -  denoms updated
+2020-10-12 12:00:03,529 - helper - INFO - helper : 214 - * EOSUSDT -> (24) klines added
+2020-10-12 12:00:03,785 - helper - INFO - helper : 214 - * SUSHIUSDT -> (23) klines added
+2020-10-12 12:00:04,038 - helper - INFO - helper : 214 - * BALUSDT -> (24) klines added
+2020-10-12 12:00:04,294 - helper - INFO - helper : 214 - * KNCUSDT -> (24) klines added
+2020-10-12 12:00:04,547 - helper - INFO - helper : 214 - * SRMUSDT -> (24) klines added
+2020-10-12 12:00:04,802 - helper - INFO - helper : 214 - * ENJUSDT -> (24) klines added
+2020-10-12 12:00:05,055 - helper - INFO - helper : 214 - * ZRXUSDT -> (24) klines added
+2020-10-12 12:00:05,310 - helper - INFO - helper : 214 - * QTUMUSDT -> (24) klines added
+2020-10-12 12:00:05,568 - helper - INFO - helper : 214 - * ATOMUSDT -> (24) klines added
+2020-10-12 12:00:06,053 - helper - INFO - helper : 214 - * IOTAUSDT -> (24) klines added
+2020-10-12 12:00:06,313 - helper - INFO - helper : 214 - * WAVESUSDT -> (24) klines added
+2020-10-12 12:00:06,563 - helper - INFO - helper : 214 - * ADAUSDT -> (24) klines added
+2020-10-12 12:00:06,838 - helper - INFO - helper : 214 - * BCHUSDT -> (24) klines added
+2020-10-12 12:00:07,092 - helper - INFO - helper : 214 - * XTZUSDT -> (24) klines added
+2020-10-12 12:00:07,353 - helper - INFO - helper : 214 - * BNBUSDT -> (24) klines added
+2020-10-12 12:00:07,610 - helper - INFO - helper : 214 - * IOSTUSDT -> (24) klines added
+2020-10-12 12:00:07,867 - helper - INFO - helper : 214 - * HNTUSDT -> (24) klines added
+2020-10-12 12:00:08,122 - helper - INFO - helper : 214 - * ETCUSDT -> (25) klines added
+2020-10-12 12:00:08,373 - helper - INFO - helper : 214 - * XMRUSDT -> (24) klines added
+2020-10-12 12:00:08,631 - helper - INFO - helper : 214 - * YFIUSDT -> (24) klines added
+2020-10-12 12:00:08,889 - helper - INFO - helper : 214 - * ZECUSDT -> (23) klines added
+2020-10-12 12:00:09,146 - helper - INFO - helper : 214 - * ETHUSDT -> (24) klines added
+2020-10-12 12:00:09,406 - helper - INFO - helper : 214 - * BZRXUSDT -> (24) klines added
+2020-10-12 12:00:09,658 - helper - INFO - helper : 214 - * BATUSDT -> (24) klines added
+2020-10-12 12:00:09,923 - helper - INFO - helper : 214 - * ALGOUSDT -> (24) klines added
+2020-10-12 12:00:10,179 - helper - INFO - helper : 214 - * DOGEUSDT -> (24) klines added
+2020-10-12 12:00:11,085 - helper - INFO - helper : 214 - * TRXUSDT -> (24) klines added
+2020-10-12 12:00:11,335 - helper - INFO - helper : 214 - * RLCUSDT -> (24) klines added
+2020-10-12 12:00:11,588 - helper - INFO - helper : 214 - * STORJUSDT -> (24) klines added
+2020-10-12 12:00:11,856 - helper - INFO - helper : 214 - * SNXUSDT -> (24) klines added
+2020-10-12 12:00:12,111 - helper - INFO - helper : 214 - * AVAXUSDT -> (24) klines added
+2020-10-12 12:00:12,365 - helper - INFO - helper : 214 - * XLMUSDT -> (24) klines added
+2020-10-12 12:00:12,622 - helper - INFO - helper : 214 - * NEOUSDT -> (24) klines added
+2020-10-12 12:00:12,885 - helper - INFO - helper : 214 - * MKRUSDT -> (24) klines added
+2020-10-12 12:00:13,143 - helper - INFO - helper : 214 - * DASHUSDT -> (24) klines added
+2020-10-12 12:00:13,412 - helper - INFO - helper : 214 - * THETAUSDT -> (24) klines added
+2020-10-12 12:00:13,669 - helper - INFO - helper : 214 - * KAVAUSDT -> (24) klines added
+2020-10-12 12:00:13,923 - helper - INFO - helper : 214 - * UNIUSDT -> (24) klines added
+2020-10-12 12:00:14,180 - helper - INFO - helper : 214 - * RUNEUSDT -> (24) klines added
+2020-10-12 12:00:14,431 - helper - INFO - helper : 214 - * LINKUSDT -> (24) klines added
+2020-10-12 12:00:14,664 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+Traceback (most recent call last):
+  File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
+    kl = client.get_klines(symbol=s, interval=interval)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 735, in get_klines
+    return self._get('klines', data=params)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 237, in _get
+    return self._request_api('get', path, signed, version, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 202, in _request_api
+    return self._request(method, uri, signed, **kwargs)
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 197, in _request
+    return self._handle_response()
+  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
+    raise BinanceAPIException(self.response)
+binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
+2020-10-12 12:00:14,925 - helper - INFO - helper : 214 - * COMPUSDT -> (24) klines added
+2020-10-12 12:00:15,184 - helper - INFO - helper : 214 - * SOLUSDT -> (24) klines added
+2020-10-12 12:00:15,440 - helper - INFO - helper : 214 - * BTCUSDT -> (24) klines added
+2020-10-12 12:00:15,698 - helper - INFO - helper : 214 - * OMGUSDT -> (24) klines added
+2020-10-12 12:00:15,955 - helper - INFO - helper : 214 - * ICXUSDT -> (24) klines added
+2020-10-12 12:00:16,213 - helper - INFO - helper : 214 - * BLZUSDT -> (24) klines added
+2020-10-12 12:00:16,467 - helper - INFO - helper : 214 - * FTMUSDT -> (24) klines added
+2020-10-12 12:00:16,721 - helper - INFO - helper : 214 - * YFIIUSDT -> (24) klines added
+2020-10-12 12:00:16,978 - helper - INFO - helper : 214 - * LTCUSDT -> (24) klines added
+2020-10-12 12:00:17,236 - helper - INFO - helper : 214 - * BANDUSDT -> (24) klines added
+2020-10-12 12:00:17,487 - helper - INFO - helper : 214 - * XRPUSDT -> (24) klines added
+2020-10-12 12:00:17,741 - helper - INFO - helper : 214 - * SXPUSDT -> (24) klines added
+2020-10-12 12:00:17,997 - helper - INFO - helper : 214 - * CRVUSDT -> (24) klines added
+2020-10-12 12:00:18,259 - helper - INFO - helper : 214 - * DOTUSDT -> (24) klines added
+2020-10-12 12:00:18,512 - helper - INFO - helper : 214 - * EGLDUSDT -> (24) klines added
+2020-10-12 12:00:18,772 - helper - INFO - helper : 214 - * ONTUSDT -> (24) klines added
+2020-10-12 12:00:19,024 - helper - INFO - helper : 214 - * VETUSDT -> (24) klines added
+2020-10-12 12:00:19,284 - helper - INFO - helper : 214 - * TRBUSDT -> (24) klines added
+2020-10-12 12:00:19,536 - helper - INFO - helper : 214 - * ZILUSDT -> (24) klines added
+2020-10-12 12:00:19,795 - helper - INFO - helper : 214 - * FLMUSDT -> (24) klines added
