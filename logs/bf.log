@@ -1,44 +1,44 @@
-2020-10-12 10:00:03,294 - helper - INFO - helper : 214 - * EOSUSDT -> (23) klines added
-2020-10-12 10:00:03,553 - helper - INFO - helper : 214 - * SUSHIUSDT -> (25) klines added
-2020-10-12 10:00:03,804 - helper - INFO - helper : 214 - * BALUSDT -> (24) klines added
-2020-10-12 10:00:04,062 - helper - INFO - helper : 214 - * KNCUSDT -> (24) klines added
-2020-10-12 10:00:04,319 - helper - INFO - helper : 214 - * SRMUSDT -> (25) klines added
-2020-10-12 10:00:04,570 - helper - INFO - helper : 214 - * ENJUSDT -> (24) klines added
-2020-10-12 10:00:04,823 - helper - INFO - helper : 214 - * ZRXUSDT -> (24) klines added
-2020-10-12 10:00:05,082 - helper - INFO - helper : 214 - * QTUMUSDT -> (24) klines added
-2020-10-12 10:00:05,335 - helper - INFO - helper : 214 - * ATOMUSDT -> (25) klines added
-2020-10-12 10:00:06,243 - helper - INFO - helper : 214 - * IOTAUSDT -> (24) klines added
-2020-10-12 10:00:06,499 - helper - INFO - helper : 214 - * WAVESUSDT -> (24) klines added
-2020-10-12 10:00:06,757 - helper - INFO - helper : 214 - * ADAUSDT -> (25) klines added
-2020-10-12 10:00:07,015 - helper - INFO - helper : 214 - * BCHUSDT -> (24) klines added
-2020-10-12 10:00:07,274 - helper - INFO - helper : 214 - * XTZUSDT -> (23) klines added
-2020-10-12 10:00:07,527 - helper - INFO - helper : 214 - * BNBUSDT -> (24) klines added
-2020-10-12 10:00:07,785 - helper - INFO - helper : 214 - * IOSTUSDT -> (24) klines added
-2020-10-12 10:00:08,036 - helper - INFO - helper : 214 - * HNTUSDT -> (24) klines added
-2020-10-12 10:00:08,290 - helper - INFO - helper : 214 - * ETCUSDT -> (24) klines added
-2020-10-12 10:00:08,546 - helper - INFO - helper : 214 - * XMRUSDT -> (24) klines added
-2020-10-12 10:00:08,801 - helper - INFO - helper : 214 - * YFIUSDT -> (24) klines added
-2020-10-12 10:00:09,060 - helper - INFO - helper : 214 - * ZECUSDT -> (24) klines added
-2020-10-12 10:00:09,333 - helper - INFO - helper : 214 - * ETHUSDT -> (24) klines added
-2020-10-12 10:00:09,586 - helper - INFO - helper : 214 - * BZRXUSDT -> (25) klines added
-2020-10-12 10:00:09,846 - helper - INFO - helper : 214 - * BATUSDT -> (24) klines added
-2020-10-12 10:00:10,101 - helper - INFO - helper : 214 - * ALGOUSDT -> (24) klines added
-2020-10-12 10:00:10,353 - helper - INFO - helper : 214 - * DOGEUSDT -> (24) klines added
-2020-10-12 10:00:10,611 - helper - INFO - helper : 214 - * TRXUSDT -> (24) klines added
-2020-10-12 10:00:10,863 - helper - INFO - helper : 214 - * RLCUSDT -> (24) klines added
-2020-10-12 10:00:11,116 - helper - INFO - helper : 214 - * STORJUSDT -> (24) klines added
-2020-10-12 10:00:11,374 - helper - INFO - helper : 214 - * SNXUSDT -> (24) klines added
-2020-10-12 10:00:11,638 - helper - INFO - helper : 214 - * AVAXUSDT -> (24) klines added
-2020-10-12 10:00:11,896 - helper - INFO - helper : 214 - * XLMUSDT -> (24) klines added
-2020-10-12 10:00:12,151 - helper - INFO - helper : 214 - * NEOUSDT -> (24) klines added
-2020-10-12 10:00:12,409 - helper - INFO - helper : 214 - * MKRUSDT -> (24) klines added
-2020-10-12 10:00:12,661 - helper - INFO - helper : 214 - * DASHUSDT -> (24) klines added
-2020-10-12 10:00:12,918 - helper - INFO - helper : 214 - * THETAUSDT -> (24) klines added
-2020-10-12 10:00:13,179 - helper - INFO - helper : 214 - * KAVAUSDT -> (24) klines added
-2020-10-12 10:00:13,434 - helper - INFO - helper : 214 - * UNIUSDT -> (24) klines added
-2020-10-12 10:00:13,692 - helper - INFO - helper : 214 - * RUNEUSDT -> (24) klines added
-2020-10-12 10:00:13,952 - helper - INFO - helper : 214 - * LINKUSDT -> (24) klines added
-2020-10-12 10:00:14,181 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+2020-10-13 02:00:04,034 - helper - INFO - helper : 213 - * EOSUSDT -> (24) klines added
+2020-10-13 02:00:04,939 - helper - INFO - helper : 213 - * SUSHIUSDT -> (24) klines added
+2020-10-13 02:00:05,198 - helper - INFO - helper : 213 - * BALUSDT -> (24) klines added
+2020-10-13 02:00:05,450 - helper - INFO - helper : 213 - * KNCUSDT -> (24) klines added
+2020-10-13 02:00:05,704 - helper - INFO - helper : 213 - * SRMUSDT -> (24) klines added
+2020-10-13 02:00:06,170 - helper - INFO - helper : 213 - * ENJUSDT -> (23) klines added
+2020-10-13 02:00:06,428 - helper - INFO - helper : 213 - * ZRXUSDT -> (24) klines added
+2020-10-13 02:00:06,686 - helper - INFO - helper : 213 - * QTUMUSDT -> (24) klines added
+2020-10-13 02:00:06,939 - helper - INFO - helper : 213 - * ATOMUSDT -> (25) klines added
+2020-10-13 02:00:07,198 - helper - INFO - helper : 213 - * IOTAUSDT -> (24) klines added
+2020-10-13 02:00:07,459 - helper - INFO - helper : 213 - * WAVESUSDT -> (24) klines added
+2020-10-13 02:00:07,719 - helper - INFO - helper : 213 - * ADAUSDT -> (24) klines added
+2020-10-13 02:00:07,978 - helper - INFO - helper : 213 - * BCHUSDT -> (24) klines added
+2020-10-13 02:00:08,453 - helper - INFO - helper : 213 - * XTZUSDT -> (23) klines added
+2020-10-13 02:00:08,712 - helper - INFO - helper : 213 - * BNBUSDT -> (24) klines added
+2020-10-13 02:00:08,962 - helper - INFO - helper : 213 - * IOSTUSDT -> (24) klines added
+2020-10-13 02:00:09,223 - helper - INFO - helper : 213 - * HNTUSDT -> (24) klines added
+2020-10-13 02:00:09,476 - helper - INFO - helper : 213 - * ETCUSDT -> (24) klines added
+2020-10-13 02:00:10,378 - helper - INFO - helper : 213 - * XMRUSDT -> (24) klines added
+2020-10-13 02:00:11,282 - helper - INFO - helper : 213 - * YFIUSDT -> (24) klines added
+2020-10-13 02:00:11,540 - helper - INFO - helper : 213 - * ZECUSDT -> (24) klines added
+2020-10-13 02:00:11,790 - helper - INFO - helper : 213 - * ETHUSDT -> (24) klines added
+2020-10-13 02:00:12,043 - helper - INFO - helper : 213 - * BZRXUSDT -> (24) klines added
+2020-10-13 02:00:12,296 - helper - INFO - helper : 213 - * BATUSDT -> (24) klines added
+2020-10-13 02:00:12,548 - helper - INFO - helper : 213 - * ALGOUSDT -> (24) klines added
+2020-10-13 02:00:13,018 - helper - INFO - helper : 213 - * DOGEUSDT -> (24) klines added
+2020-10-13 02:00:13,277 - helper - INFO - helper : 213 - * TRXUSDT -> (24) klines added
+2020-10-13 02:00:13,528 - helper - INFO - helper : 213 - * RLCUSDT -> (24) klines added
+2020-10-13 02:00:13,786 - helper - INFO - helper : 213 - * STORJUSDT -> (24) klines added
+2020-10-13 02:00:14,045 - helper - INFO - helper : 213 - * SNXUSDT -> (24) klines added
+2020-10-13 02:00:14,297 - helper - INFO - helper : 213 - * AVAXUSDT -> (24) klines added
+2020-10-13 02:00:14,548 - helper - INFO - helper : 213 - * XLMUSDT -> (24) klines added
+2020-10-13 02:00:14,799 - helper - INFO - helper : 213 - * NEOUSDT -> (24) klines added
+2020-10-13 02:00:15,050 - helper - INFO - helper : 213 - * MKRUSDT -> (24) klines added
+2020-10-13 02:00:15,307 - helper - INFO - helper : 213 - * DASHUSDT -> (24) klines added
+2020-10-13 02:00:15,566 - helper - INFO - helper : 213 - * THETAUSDT -> (24) klines added
+2020-10-13 02:00:15,824 - helper - INFO - helper : 213 - * KAVAUSDT -> (24) klines added
+2020-10-13 02:00:16,083 - helper - INFO - helper : 213 - * UNIUSDT -> (24) klines added
+2020-10-13 02:00:16,557 - helper - INFO - helper : 213 - * RUNEUSDT -> (24) klines added
+2020-10-13 02:00:16,808 - helper - INFO - helper : 213 - * LINKUSDT -> (24) klines added
+2020-10-13 02:00:17,033 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
 Traceback (most recent call last):
   File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
     kl = client.get_klines(symbol=s, interval=interval)
@@ -53,27 +53,161 @@ Traceback (most recent call last):
   File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
     raise BinanceAPIException(self.response)
 binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
-2020-10-12 10:00:14,434 - helper - INFO - helper : 214 - * COMPUSDT -> (24) klines added
-2020-10-12 10:00:14,687 - helper - INFO - helper : 214 - * SOLUSDT -> (24) klines added
-2020-10-12 10:00:14,945 - helper - INFO - helper : 214 - * BTCUSDT -> (24) klines added
-2020-10-12 10:00:15,204 - helper - INFO - helper : 214 - * OMGUSDT -> (24) klines added
-2020-10-12 10:00:15,456 - helper - INFO - helper : 214 - * ICXUSDT -> (24) klines added
-2020-10-12 10:00:15,713 - helper - INFO - helper : 214 - * BLZUSDT -> (24) klines added
-2020-10-12 10:00:15,973 - helper - INFO - helper : 214 - * FTMUSDT -> (24) klines added
-2020-10-12 10:00:16,224 - helper - INFO - helper : 214 - * YFIIUSDT -> (24) klines added
-2020-10-12 10:00:16,475 - helper - INFO - helper : 214 - * LTCUSDT -> (24) klines added
-2020-10-12 10:00:16,734 - helper - INFO - helper : 214 - * BANDUSDT -> (24) klines added
-2020-10-12 10:00:16,986 - helper - INFO - helper : 214 - * XRPUSDT -> (24) klines added
-2020-10-12 10:00:17,240 - helper - INFO - helper : 214 - * SXPUSDT -> (24) klines added
-2020-10-12 10:00:17,500 - helper - INFO - helper : 214 - * CRVUSDT -> (24) klines added
-2020-10-12 10:00:17,752 - helper - INFO - helper : 214 - * DOTUSDT -> (24) klines added
-2020-10-12 10:00:18,010 - helper - INFO - helper : 214 - * EGLDUSDT -> (24) klines added
-2020-10-12 10:00:18,263 - helper - INFO - helper : 214 - * ONTUSDT -> (24) klines added
-2020-10-12 10:00:18,514 - helper - INFO - helper : 214 - * VETUSDT -> (24) klines added
-2020-10-12 10:00:18,766 - helper - INFO - helper : 214 - * TRBUSDT -> (24) klines added
-2020-10-12 10:00:19,024 - helper - INFO - helper : 214 - * ZILUSDT -> (24) klines added
-2020-10-12 10:00:19,490 - helper - INFO - helper : 214 - * FLMUSDT -> (24) klines added
-2020-10-12 10:53:57,877 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+2020-10-13 02:00:17,034 - helper - INFO - helper : 132 - cant handle DEFIUSDT
+2020-10-13 02:00:17,287 - helper - INFO - helper : 213 - * COMPUSDT -> (24) klines added
+2020-10-13 02:00:17,538 - helper - INFO - helper : 213 - * SOLUSDT -> (24) klines added
+2020-10-13 02:00:18,006 - helper - INFO - helper : 213 - * BTCUSDT -> (24) klines added
+2020-10-13 02:00:18,262 - helper - INFO - helper : 213 - * OMGUSDT -> (24) klines added
+2020-10-13 02:00:18,521 - helper - INFO - helper : 213 - * ICXUSDT -> (24) klines added
+2020-10-13 02:00:18,778 - helper - INFO - helper : 213 - * BLZUSDT -> (24) klines added
+2020-10-13 02:00:19,038 - helper - INFO - helper : 213 - * FTMUSDT -> (24) klines added
+2020-10-13 02:00:19,297 - helper - INFO - helper : 213 - * TOMOUSDT -> (24) klines added
+2020-10-13 02:00:19,549 - helper - INFO - helper : 213 - * YFIIUSDT -> (24) klines added
+2020-10-13 02:00:19,800 - helper - INFO - helper : 213 - * LTCUSDT -> (24) klines added
+2020-10-13 02:00:20,058 - helper - INFO - helper : 213 - * BANDUSDT -> (24) klines added
+2020-10-13 02:00:20,315 - helper - INFO - helper : 213 - * XRPUSDT -> (24) klines added
+2020-10-13 02:00:20,572 - helper - INFO - helper : 213 - * SXPUSDT -> (24) klines added
+2020-10-13 02:00:20,827 - helper - INFO - helper : 213 - * CRVUSDT -> (24) klines added
+2020-10-13 02:00:21,078 - helper - INFO - helper : 213 - * DOTUSDT -> (24) klines added
+2020-10-13 02:00:21,329 - helper - INFO - helper : 213 - * EGLDUSDT -> (24) klines added
+2020-10-13 02:00:21,581 - helper - INFO - helper : 213 - * ONTUSDT -> (24) klines added
+2020-10-13 02:00:21,837 - helper - INFO - helper : 213 - * VETUSDT -> (24) klines added
+2020-10-13 02:00:22,090 - helper - INFO - helper : 213 - * TRBUSDT -> (24) klines added
+2020-10-13 02:00:22,347 - helper - INFO - helper : 213 - * ZILUSDT -> (24) klines added
+2020-10-13 02:00:22,603 - helper - INFO - helper : 213 - * FLMUSDT -> (24) klines added
+2020-10-13 02:10:03,777 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:10:03,777 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:10:03,777 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:10:03,777 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:15:03,554 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:15:03,554 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:15:03,554 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:15:03,554 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:20:03,373 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:20:03,373 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:20:03,374 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:20:03,374 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:25:03,137 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:25:03,137 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:25:03,137 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:25:03,137 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:30:02,942 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:30:02,943 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:30:02,943 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:30:02,943 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:35:02,736 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:35:02,736 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:35:02,736 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:35:02,736 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:40:03,511 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:40:03,511 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:40:03,511 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:40:03,511 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:45:03,307 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:45:03,307 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:45:03,307 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:45:03,307 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:50:03,114 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:50:03,114 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:50:03,114 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:50:03,114 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 02:55:03,309 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 02:55:03,309 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 02:55:03,309 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 02:55:03,309 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:00:03,083 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:00:03,083 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:00:03,083 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:00:03,083 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:05:02,840 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:05:02,840 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:05:02,840 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:05:02,840 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:10:03,654 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:10:03,654 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:10:03,654 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:10:03,654 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:15:03,426 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:15:03,427 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:15:03,427 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:15:03,427 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:20:03,277 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:20:03,278 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:20:03,278 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:20:03,278 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:25:03,073 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:25:03,074 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:25:03,074 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:25:03,074 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:30:02,893 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:30:02,894 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:30:02,894 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:30:02,894 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:35:03,714 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:35:03,715 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:35:03,715 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:35:03,715 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:40:03,501 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:40:03,501 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:40:03,501 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:40:03,502 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:45:03,298 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:45:03,299 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:45:03,299 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:45:03,299 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:50:03,149 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:50:03,149 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:50:03,149 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:50:03,149 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 03:55:02,930 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 03:55:02,931 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 03:55:02,931 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 03:55:02,931 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:00:02,802 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:00:02,802 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:00:02,802 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:00:02,802 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:02:03,377 - helper - INFO - helper : 213 - * EOSUSDT -> (24) klines added
+2020-10-13 04:02:03,846 - helper - INFO - helper : 213 - * SUSHIUSDT -> (24) klines added
+2020-10-13 04:02:04,320 - helper - INFO - helper : 213 - * BALUSDT -> (25) klines added
+2020-10-13 04:02:04,791 - helper - INFO - helper : 213 - * KNCUSDT -> (25) klines added
+2020-10-13 04:02:05,262 - helper - INFO - helper : 213 - * SRMUSDT -> (25) klines added
+2020-10-13 04:02:05,730 - helper - INFO - helper : 213 - * ENJUSDT -> (25) klines added
+2020-10-13 04:02:06,201 - helper - INFO - helper : 213 - * ZRXUSDT -> (25) klines added
+2020-10-13 04:02:07,102 - helper - INFO - helper : 213 - * QTUMUSDT -> (25) klines added
+2020-10-13 04:02:07,362 - helper - INFO - helper : 213 - * ATOMUSDT -> (24) klines added
+2020-10-13 04:02:07,614 - helper - INFO - helper : 213 - * IOTAUSDT -> (25) klines added
+2020-10-13 04:02:07,872 - helper - INFO - helper : 213 - * WAVESUSDT -> (24) klines added
+2020-10-13 04:02:08,129 - helper - INFO - helper : 213 - * ADAUSDT -> (24) klines added
+2020-10-13 04:02:09,039 - helper - INFO - helper : 213 - * BCHUSDT -> (24) klines added
+2020-10-13 04:02:09,298 - helper - INFO - helper : 213 - * XTZUSDT -> (25) klines added
+2020-10-13 04:02:09,555 - helper - INFO - helper : 213 - * BNBUSDT -> (24) klines added
+2020-10-13 04:02:09,809 - helper - INFO - helper : 213 - * IOSTUSDT -> (24) klines added
+2020-10-13 04:02:10,066 - helper - INFO - helper : 213 - * HNTUSDT -> (24) klines added
+2020-10-13 04:02:10,538 - helper - INFO - helper : 213 - * ETCUSDT -> (24) klines added
+2020-10-13 04:02:10,795 - helper - INFO - helper : 213 - * XMRUSDT -> (24) klines added
+2020-10-13 04:02:11,054 - helper - INFO - helper : 213 - * YFIUSDT -> (24) klines added
+2020-10-13 04:02:11,520 - helper - INFO - helper : 213 - * ZECUSDT -> (24) klines added
+2020-10-13 04:02:11,777 - helper - INFO - helper : 213 - * ETHUSDT -> (24) klines added
+2020-10-13 04:02:12,036 - helper - INFO - helper : 213 - * BZRXUSDT -> (24) klines added
+2020-10-13 04:02:12,505 - helper - INFO - helper : 213 - * BATUSDT -> (24) klines added
+2020-10-13 04:02:12,757 - helper - INFO - helper : 213 - * ALGOUSDT -> (24) klines added
+2020-10-13 04:02:13,023 - helper - INFO - helper : 213 - * DOGEUSDT -> (24) klines added
+2020-10-13 04:02:13,276 - helper - INFO - helper : 213 - * TRXUSDT -> (24) klines added
+2020-10-13 04:02:13,536 - helper - INFO - helper : 213 - * RLCUSDT -> (24) klines added
+2020-10-13 04:02:13,792 - helper - INFO - helper : 213 - * STORJUSDT -> (24) klines added
+2020-10-13 04:02:14,050 - helper - INFO - helper : 213 - * SNXUSDT -> (24) klines added
+2020-10-13 04:02:14,303 - helper - INFO - helper : 213 - * AVAXUSDT -> (24) klines added
+2020-10-13 04:02:14,559 - helper - INFO - helper : 213 - * XLMUSDT -> (24) klines added
+2020-10-13 04:02:14,816 - helper - INFO - helper : 213 - * NEOUSDT -> (24) klines added
+2020-10-13 04:02:15,069 - helper - INFO - helper : 213 - * MKRUSDT -> (24) klines added
+2020-10-13 04:02:15,325 - helper - INFO - helper : 213 - * DASHUSDT -> (24) klines added
+2020-10-13 04:02:15,789 - helper - INFO - helper : 213 - * THETAUSDT -> (24) klines added
+2020-10-13 04:02:16,048 - helper - INFO - helper : 213 - * KAVAUSDT -> (24) klines added
+2020-10-13 04:02:16,312 - helper - INFO - helper : 213 - * UNIUSDT -> (24) klines added
+2020-10-13 04:02:16,563 - helper - INFO - helper : 213 - * RUNEUSDT -> (24) klines added
+2020-10-13 04:02:16,814 - helper - INFO - helper : 213 - * LINKUSDT -> (24) klines added
+2020-10-13 04:02:17,042 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
 Traceback (most recent call last):
   File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
     kl = client.get_klines(symbol=s, interval=interval)
@@ -88,13 +222,150 @@ Traceback (most recent call last):
   File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
     raise BinanceAPIException(self.response)
 binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
-2020-10-12 10:54:03,082 - helper - ERROR - helper : 86 - [Errno 2] No such file or directory: './data/master.json'
-Traceback (most recent call last):
-  File "/home/maxat_kerimbayev/bfutures/helper.py", line 84, in read_json
-    return json.load(open(fn))
-FileNotFoundError: [Errno 2] No such file or directory: './data/master.json'
-2020-10-12 10:54:03,586 - helper - INFO - helper : 169 -  denoms updated
-2020-10-12 11:00:13,650 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+2020-10-13 04:02:17,043 - helper - INFO - helper : 132 - cant handle DEFIUSDT
+2020-10-13 04:02:17,298 - helper - INFO - helper : 213 - * COMPUSDT -> (24) klines added
+2020-10-13 04:02:17,763 - helper - INFO - helper : 213 - * SOLUSDT -> (24) klines added
+2020-10-13 04:02:18,019 - helper - INFO - helper : 213 - * BTCUSDT -> (24) klines added
+2020-10-13 04:02:18,498 - helper - INFO - helper : 213 - * OMGUSDT -> (24) klines added
+2020-10-13 04:02:18,749 - helper - INFO - helper : 213 - * ICXUSDT -> (24) klines added
+2020-10-13 04:02:19,000 - helper - INFO - helper : 213 - * BLZUSDT -> (24) klines added
+2020-10-13 04:02:19,473 - helper - INFO - helper : 213 - * FTMUSDT -> (24) klines added
+2020-10-13 04:02:19,729 - helper - INFO - helper : 213 - * TOMOUSDT -> (24) klines added
+2020-10-13 04:02:19,995 - helper - INFO - helper : 213 - * YFIIUSDT -> (24) klines added
+2020-10-13 04:02:20,247 - helper - INFO - helper : 213 - * LTCUSDT -> (24) klines added
+2020-10-13 04:02:20,499 - helper - INFO - helper : 213 - * BANDUSDT -> (24) klines added
+2020-10-13 04:02:20,756 - helper - INFO - helper : 213 - * XRPUSDT -> (24) klines added
+2020-10-13 04:02:21,005 - helper - INFO - helper : 213 - * SXPUSDT -> (24) klines added
+2020-10-13 04:02:21,268 - helper - INFO - helper : 213 - * CRVUSDT -> (24) klines added
+2020-10-13 04:02:21,525 - helper - INFO - helper : 213 - * DOTUSDT -> (24) klines added
+2020-10-13 04:02:21,775 - helper - INFO - helper : 213 - * EGLDUSDT -> (24) klines added
+2020-10-13 04:02:22,032 - helper - INFO - helper : 213 - * ONTUSDT -> (24) klines added
+2020-10-13 04:02:22,283 - helper - INFO - helper : 213 - * VETUSDT -> (24) klines added
+2020-10-13 04:02:22,538 - helper - INFO - helper : 213 - * TRBUSDT -> (24) klines added
+2020-10-13 04:02:22,795 - helper - INFO - helper : 213 - * ZILUSDT -> (24) klines added
+2020-10-13 04:02:23,054 - helper - INFO - helper : 213 - * FLMUSDT -> (24) klines added
+2020-10-13 04:05:02,843 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:05:02,844 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:05:02,844 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:05:02,844 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:10:03,628 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:10:03,628 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:10:03,629 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:10:03,629 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:15:03,423 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:15:03,424 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:15:03,424 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:15:03,424 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:20:03,220 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:20:03,221 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:20:03,221 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:20:03,221 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:25:03,041 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:25:03,041 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:25:03,041 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:25:03,041 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:30:02,836 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:30:02,837 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:30:02,837 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:30:02,837 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:35:03,685 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:35:03,686 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:35:03,686 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:35:03,686 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:40:03,485 - helper - INFO - helper : 377 - KNCUSDT waiting, price no more than 2%
+2020-10-13 04:40:03,486 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:40:03,486 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:40:03,486 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:45:03,542 - helper - INFO - helper : 371 - ** Placing long order: KNCUSDT for amount of 24.0 at price: 1.02121
+2020-10-13 04:45:03,542 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:45:03,543 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:45:03,543 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:50:03,850 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:50:03,851 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:50:03,851 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 04:55:03,713 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 04:55:03,713 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 04:55:03,713 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:00:04,455 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:00:04,455 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:00:04,455 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:05:03,343 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:05:03,343 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:05:03,343 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:10:03,682 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:10:03,682 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:10:03,682 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:15:03,548 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:15:03,548 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:15:03,548 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:20:03,455 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:20:03,455 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:20:03,456 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:25:03,277 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:25:03,278 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:25:03,278 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:30:03,575 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:30:03,576 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:30:03,576 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:35:03,462 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:35:03,463 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:35:03,463 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:40:03,320 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:40:03,320 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:40:03,320 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:45:03,230 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:45:03,231 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:45:03,231 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:50:03,114 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:50:03,114 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:50:03,114 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 05:55:02,997 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 05:55:02,997 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 05:55:02,997 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:00:02,853 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:00:02,854 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:00:02,854 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:02:03,585 - helper - INFO - helper : 213 - * EOSUSDT -> (24) klines added
+2020-10-13 06:02:03,852 - helper - INFO - helper : 213 - * SUSHIUSDT -> (24) klines added
+2020-10-13 06:02:04,114 - helper - INFO - helper : 213 - * BALUSDT -> (24) klines added
+2020-10-13 06:02:04,378 - helper - INFO - helper : 213 - * KNCUSDT -> (24) klines added
+2020-10-13 06:02:04,641 - helper - INFO - helper : 213 - * SRMUSDT -> (24) klines added
+2020-10-13 06:02:04,904 - helper - INFO - helper : 213 - * ENJUSDT -> (24) klines added
+2020-10-13 06:02:05,156 - helper - INFO - helper : 213 - * ZRXUSDT -> (24) klines added
+2020-10-13 06:02:05,416 - helper - INFO - helper : 213 - * QTUMUSDT -> (24) klines added
+2020-10-13 06:02:05,683 - helper - INFO - helper : 213 - * ATOMUSDT -> (24) klines added
+2020-10-13 06:02:05,941 - helper - INFO - helper : 213 - * IOTAUSDT -> (24) klines added
+2020-10-13 06:02:06,194 - helper - INFO - helper : 213 - * WAVESUSDT -> (24) klines added
+2020-10-13 06:02:06,453 - helper - INFO - helper : 213 - * ADAUSDT -> (24) klines added
+2020-10-13 06:02:06,707 - helper - INFO - helper : 213 - * BCHUSDT -> (24) klines added
+2020-10-13 06:02:06,962 - helper - INFO - helper : 213 - * XTZUSDT -> (24) klines added
+2020-10-13 06:02:07,222 - helper - INFO - helper : 213 - * BNBUSDT -> (24) klines added
+2020-10-13 06:02:07,478 - helper - INFO - helper : 213 - * IOSTUSDT -> (24) klines added
+2020-10-13 06:02:07,728 - helper - INFO - helper : 213 - * HNTUSDT -> (24) klines added
+2020-10-13 06:02:07,981 - helper - INFO - helper : 213 - * ETCUSDT -> (24) klines added
+2020-10-13 06:02:08,234 - helper - INFO - helper : 213 - * XMRUSDT -> (24) klines added
+2020-10-13 06:02:08,496 - helper - INFO - helper : 213 - * YFIUSDT -> (24) klines added
+2020-10-13 06:02:08,756 - helper - INFO - helper : 213 - * ZECUSDT -> (24) klines added
+2020-10-13 06:02:09,018 - helper - INFO - helper : 213 - * ETHUSDT -> (24) klines added
+2020-10-13 06:02:09,279 - helper - INFO - helper : 213 - * BZRXUSDT -> (24) klines added
+2020-10-13 06:02:09,532 - helper - INFO - helper : 213 - * BATUSDT -> (24) klines added
+2020-10-13 06:02:09,791 - helper - INFO - helper : 213 - * ALGOUSDT -> (24) klines added
+2020-10-13 06:02:10,267 - helper - INFO - helper : 213 - * DOGEUSDT -> (24) klines added
+2020-10-13 06:02:10,529 - helper - INFO - helper : 213 - * TRXUSDT -> (24) klines added
+2020-10-13 06:02:10,789 - helper - INFO - helper : 213 - * RLCUSDT -> (24) klines added
+2020-10-13 06:02:11,050 - helper - INFO - helper : 213 - * STORJUSDT -> (24) klines added
+2020-10-13 06:02:11,305 - helper - INFO - helper : 213 - * SNXUSDT -> (24) klines added
+2020-10-13 06:02:11,563 - helper - INFO - helper : 213 - * AVAXUSDT -> (24) klines added
+2020-10-13 06:02:11,822 - helper - INFO - helper : 213 - * XLMUSDT -> (24) klines added
+2020-10-13 06:02:12,077 - helper - INFO - helper : 213 - * NEOUSDT -> (24) klines added
+2020-10-13 06:02:12,337 - helper - INFO - helper : 213 - * MKRUSDT -> (24) klines added
+2020-10-13 06:02:12,590 - helper - INFO - helper : 213 - * DASHUSDT -> (24) klines added
+2020-10-13 06:02:12,850 - helper - INFO - helper : 213 - * THETAUSDT -> (24) klines added
+2020-10-13 06:02:13,109 - helper - INFO - helper : 213 - * KAVAUSDT -> (24) klines added
+2020-10-13 06:02:13,366 - helper - INFO - helper : 213 - * UNIUSDT -> (24) klines added
+2020-10-13 06:02:13,624 - helper - INFO - helper : 213 - * RUNEUSDT -> (24) klines added
+2020-10-13 06:02:13,878 - helper - INFO - helper : 213 - * LINKUSDT -> (24) klines added
+2020-10-13 06:02:14,106 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
 Traceback (most recent call last):
   File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
     kl = client.get_klines(symbol=s, interval=interval)
@@ -109,8 +380,141 @@ Traceback (most recent call last):
   File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
     raise BinanceAPIException(self.response)
 binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
-2020-10-12 11:00:19,796 - helper - INFO - helper : 169 -  denoms updated
-2020-10-12 11:05:14,330 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
+2020-10-13 06:02:14,107 - helper - INFO - helper : 132 - cant handle DEFIUSDT
+2020-10-13 06:02:14,363 - helper - INFO - helper : 213 - * COMPUSDT -> (24) klines added
+2020-10-13 06:02:14,626 - helper - INFO - helper : 213 - * SOLUSDT -> (24) klines added
+2020-10-13 06:02:14,884 - helper - INFO - helper : 213 - * BTCUSDT -> (24) klines added
+2020-10-13 06:02:15,152 - helper - INFO - helper : 213 - * OMGUSDT -> (24) klines added
+2020-10-13 06:02:15,415 - helper - INFO - helper : 213 - * ICXUSDT -> (24) klines added
+2020-10-13 06:02:15,670 - helper - INFO - helper : 213 - * BLZUSDT -> (24) klines added
+2020-10-13 06:02:15,931 - helper - INFO - helper : 213 - * FTMUSDT -> (24) klines added
+2020-10-13 06:02:16,190 - helper - INFO - helper : 213 - * TOMOUSDT -> (24) klines added
+2020-10-13 06:02:16,451 - helper - INFO - helper : 213 - * YFIIUSDT -> (24) klines added
+2020-10-13 06:02:16,710 - helper - INFO - helper : 213 - * LTCUSDT -> (24) klines added
+2020-10-13 06:02:16,963 - helper - INFO - helper : 213 - * BANDUSDT -> (24) klines added
+2020-10-13 06:02:17,217 - helper - INFO - helper : 213 - * XRPUSDT -> (24) klines added
+2020-10-13 06:02:17,476 - helper - INFO - helper : 213 - * SXPUSDT -> (24) klines added
+2020-10-13 06:02:17,729 - helper - INFO - helper : 213 - * CRVUSDT -> (24) klines added
+2020-10-13 06:02:17,998 - helper - INFO - helper : 213 - * DOTUSDT -> (24) klines added
+2020-10-13 06:02:18,252 - helper - INFO - helper : 213 - * EGLDUSDT -> (24) klines added
+2020-10-13 06:02:18,511 - helper - INFO - helper : 213 - * ONTUSDT -> (24) klines added
+2020-10-13 06:02:18,763 - helper - INFO - helper : 213 - * VETUSDT -> (24) klines added
+2020-10-13 06:02:19,017 - helper - INFO - helper : 213 - * TRBUSDT -> (24) klines added
+2020-10-13 06:02:19,269 - helper - INFO - helper : 213 - * ZILUSDT -> (24) klines added
+2020-10-13 06:02:19,523 - helper - INFO - helper : 213 - * FLMUSDT -> (24) klines added
+2020-10-13 06:05:03,419 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:05:03,419 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:05:03,419 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:10:03,329 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:10:03,330 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:10:03,330 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:15:03,525 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:15:03,526 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:15:03,526 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:20:04,881 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:20:04,882 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:20:04,882 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:25:04,100 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:25:04,100 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:25:04,100 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:30:03,717 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:30:03,717 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:30:03,717 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:35:03,707 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:35:03,708 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:35:03,708 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:40:03,632 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:40:03,632 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:40:03,632 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:45:03,532 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:45:03,532 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:45:03,532 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:50:03,458 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:50:03,459 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:50:03,459 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 06:55:03,412 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 06:55:03,413 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 06:55:03,413 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:00:03,450 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:00:03,450 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:00:03,450 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:05:03,360 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:05:03,360 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:05:03,361 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:10:03,272 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:10:03,272 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:10:03,272 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:15:03,144 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:15:03,144 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:15:03,144 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:20:03,051 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:20:03,051 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:20:03,051 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:25:02,965 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:25:02,965 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:25:02,965 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:30:02,856 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:30:02,856 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:30:02,856 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:35:03,753 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:35:03,754 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:35:03,754 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:40:03,713 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:40:03,713 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:40:03,713 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:45:03,645 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:45:03,645 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:45:03,645 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:50:03,538 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:50:03,538 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:50:03,538 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 07:55:03,420 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 07:55:03,420 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 07:55:03,420 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 08:00:03,625 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 08:00:03,625 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 08:00:03,625 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 08:02:03,313 - helper - INFO - helper : 213 - * EOSUSDT -> (24) klines added
+2020-10-13 08:02:03,569 - helper - INFO - helper : 213 - * SUSHIUSDT -> (24) klines added
+2020-10-13 08:02:04,067 - helper - INFO - helper : 213 - * BALUSDT -> (24) klines added
+2020-10-13 08:02:04,329 - helper - INFO - helper : 213 - * KNCUSDT -> (24) klines added
+2020-10-13 08:02:04,857 - helper - INFO - helper : 213 - * SRMUSDT -> (24) klines added
+2020-10-13 08:02:05,114 - helper - INFO - helper : 213 - * ENJUSDT -> (24) klines added
+2020-10-13 08:02:05,373 - helper - INFO - helper : 213 - * ZRXUSDT -> (24) klines added
+2020-10-13 08:02:05,634 - helper - INFO - helper : 213 - * QTUMUSDT -> (24) klines added
+2020-10-13 08:02:05,890 - helper - INFO - helper : 213 - * ATOMUSDT -> (24) klines added
+2020-10-13 08:02:06,156 - helper - INFO - helper : 213 - * IOTAUSDT -> (24) klines added
+2020-10-13 08:02:06,430 - helper - INFO - helper : 213 - * WAVESUSDT -> (24) klines added
+2020-10-13 08:02:06,909 - helper - INFO - helper : 213 - * ADAUSDT -> (24) klines added
+2020-10-13 08:02:07,183 - helper - INFO - helper : 213 - * BCHUSDT -> (24) klines added
+2020-10-13 08:02:07,443 - helper - INFO - helper : 213 - * XTZUSDT -> (24) klines added
+2020-10-13 08:02:07,706 - helper - INFO - helper : 213 - * BNBUSDT -> (24) klines added
+2020-10-13 08:02:08,208 - helper - INFO - helper : 213 - * IOSTUSDT -> (24) klines added
+2020-10-13 08:02:08,588 - helper - INFO - helper : 213 - * HNTUSDT -> (24) klines added
+2020-10-13 08:02:08,904 - helper - INFO - helper : 213 - * ETCUSDT -> (24) klines added
+2020-10-13 08:02:09,431 - helper - INFO - helper : 213 - * XMRUSDT -> (24) klines added
+2020-10-13 08:02:09,695 - helper - INFO - helper : 213 - * YFIUSDT -> (24) klines added
+2020-10-13 08:02:09,956 - helper - INFO - helper : 213 - * ZECUSDT -> (24) klines added
+2020-10-13 08:02:10,245 - helper - INFO - helper : 213 - * ETHUSDT -> (24) klines added
+2020-10-13 08:02:10,519 - helper - INFO - helper : 213 - * BZRXUSDT -> (24) klines added
+2020-10-13 08:02:10,785 - helper - INFO - helper : 213 - * BATUSDT -> (24) klines added
+2020-10-13 08:02:11,060 - helper - INFO - helper : 213 - * ALGOUSDT -> (24) klines added
+2020-10-13 08:02:11,326 - helper - INFO - helper : 213 - * DOGEUSDT -> (24) klines added
+2020-10-13 08:02:11,596 - helper - INFO - helper : 213 - * TRXUSDT -> (24) klines added
+2020-10-13 08:02:11,854 - helper - INFO - helper : 213 - * RLCUSDT -> (24) klines added
+2020-10-13 08:02:12,110 - helper - INFO - helper : 213 - * STORJUSDT -> (24) klines added
+2020-10-13 08:02:12,380 - helper - INFO - helper : 213 - * SNXUSDT -> (24) klines added
+2020-10-13 08:02:12,641 - helper - INFO - helper : 213 - * AVAXUSDT -> (24) klines added
+2020-10-13 08:02:12,897 - helper - INFO - helper : 213 - * XLMUSDT -> (24) klines added
+2020-10-13 08:02:13,158 - helper - INFO - helper : 213 - * NEOUSDT -> (24) klines added
+2020-10-13 08:02:13,415 - helper - INFO - helper : 213 - * MKRUSDT -> (24) klines added
+2020-10-13 08:02:13,675 - helper - INFO - helper : 213 - * DASHUSDT -> (24) klines added
+2020-10-13 08:02:13,927 - helper - INFO - helper : 213 - * THETAUSDT -> (24) klines added
+2020-10-13 08:02:14,191 - helper - INFO - helper : 213 - * KAVAUSDT -> (24) klines added
+2020-10-13 08:02:14,446 - helper - INFO - helper : 213 - * UNIUSDT -> (24) klines added
+2020-10-13 08:02:14,705 - helper - INFO - helper : 213 - * RUNEUSDT -> (24) klines added
+2020-10-13 08:02:14,958 - helper - INFO - helper : 213 - * LINKUSDT -> (24) klines added
+2020-10-13 08:02:15,192 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
 Traceback (most recent call last):
   File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
     kl = client.get_klines(symbol=s, interval=interval)
@@ -125,79 +529,596 @@ Traceback (most recent call last):
   File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
     raise BinanceAPIException(self.response)
 binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
-2020-10-12 11:05:19,832 - helper - INFO - helper : 169 -  denoms updated
-2020-10-12 12:00:03,529 - helper - INFO - helper : 214 - * EOSUSDT -> (24) klines added
-2020-10-12 12:00:03,785 - helper - INFO - helper : 214 - * SUSHIUSDT -> (23) klines added
-2020-10-12 12:00:04,038 - helper - INFO - helper : 214 - * BALUSDT -> (24) klines added
-2020-10-12 12:00:04,294 - helper - INFO - helper : 214 - * KNCUSDT -> (24) klines added
-2020-10-12 12:00:04,547 - helper - INFO - helper : 214 - * SRMUSDT -> (24) klines added
-2020-10-12 12:00:04,802 - helper - INFO - helper : 214 - * ENJUSDT -> (24) klines added
-2020-10-12 12:00:05,055 - helper - INFO - helper : 214 - * ZRXUSDT -> (24) klines added
-2020-10-12 12:00:05,310 - helper - INFO - helper : 214 - * QTUMUSDT -> (24) klines added
-2020-10-12 12:00:05,568 - helper - INFO - helper : 214 - * ATOMUSDT -> (24) klines added
-2020-10-12 12:00:06,053 - helper - INFO - helper : 214 - * IOTAUSDT -> (24) klines added
-2020-10-12 12:00:06,313 - helper - INFO - helper : 214 - * WAVESUSDT -> (24) klines added
-2020-10-12 12:00:06,563 - helper - INFO - helper : 214 - * ADAUSDT -> (24) klines added
-2020-10-12 12:00:06,838 - helper - INFO - helper : 214 - * BCHUSDT -> (24) klines added
-2020-10-12 12:00:07,092 - helper - INFO - helper : 214 - * XTZUSDT -> (24) klines added
-2020-10-12 12:00:07,353 - helper - INFO - helper : 214 - * BNBUSDT -> (24) klines added
-2020-10-12 12:00:07,610 - helper - INFO - helper : 214 - * IOSTUSDT -> (24) klines added
-2020-10-12 12:00:07,867 - helper - INFO - helper : 214 - * HNTUSDT -> (24) klines added
-2020-10-12 12:00:08,122 - helper - INFO - helper : 214 - * ETCUSDT -> (25) klines added
-2020-10-12 12:00:08,373 - helper - INFO - helper : 214 - * XMRUSDT -> (24) klines added
-2020-10-12 12:00:08,631 - helper - INFO - helper : 214 - * YFIUSDT -> (24) klines added
-2020-10-12 12:00:08,889 - helper - INFO - helper : 214 - * ZECUSDT -> (23) klines added
-2020-10-12 12:00:09,146 - helper - INFO - helper : 214 - * ETHUSDT -> (24) klines added
-2020-10-12 12:00:09,406 - helper - INFO - helper : 214 - * BZRXUSDT -> (24) klines added
-2020-10-12 12:00:09,658 - helper - INFO - helper : 214 - * BATUSDT -> (24) klines added
-2020-10-12 12:00:09,923 - helper - INFO - helper : 214 - * ALGOUSDT -> (24) klines added
-2020-10-12 12:00:10,179 - helper - INFO - helper : 214 - * DOGEUSDT -> (24) klines added
-2020-10-12 12:00:11,085 - helper - INFO - helper : 214 - * TRXUSDT -> (24) klines added
-2020-10-12 12:00:11,335 - helper - INFO - helper : 214 - * RLCUSDT -> (24) klines added
-2020-10-12 12:00:11,588 - helper - INFO - helper : 214 - * STORJUSDT -> (24) klines added
-2020-10-12 12:00:11,856 - helper - INFO - helper : 214 - * SNXUSDT -> (24) klines added
-2020-10-12 12:00:12,111 - helper - INFO - helper : 214 - * AVAXUSDT -> (24) klines added
-2020-10-12 12:00:12,365 - helper - INFO - helper : 214 - * XLMUSDT -> (24) klines added
-2020-10-12 12:00:12,622 - helper - INFO - helper : 214 - * NEOUSDT -> (24) klines added
-2020-10-12 12:00:12,885 - helper - INFO - helper : 214 - * MKRUSDT -> (24) klines added
-2020-10-12 12:00:13,143 - helper - INFO - helper : 214 - * DASHUSDT -> (24) klines added
-2020-10-12 12:00:13,412 - helper - INFO - helper : 214 - * THETAUSDT -> (24) klines added
-2020-10-12 12:00:13,669 - helper - INFO - helper : 214 - * KAVAUSDT -> (24) klines added
-2020-10-12 12:00:13,923 - helper - INFO - helper : 214 - * UNIUSDT -> (24) klines added
-2020-10-12 12:00:14,180 - helper - INFO - helper : 214 - * RUNEUSDT -> (24) klines added
-2020-10-12 12:00:14,431 - helper - INFO - helper : 214 - * LINKUSDT -> (24) klines added
-2020-10-12 12:00:14,664 - helper - ERROR - helper : 130 - APIError(code=-1121): Invalid symbol.
-Traceback (most recent call last):
-  File "/home/maxat_kerimbayev/bfutures/helper.py", line 118, in get_ohlcv
-    kl = client.get_klines(symbol=s, interval=interval)
-  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 735, in get_klines
-    return self._get('klines', data=params)
-  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 237, in _get
-    return self._request_api('get', path, signed, version, **kwargs)
-  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 202, in _request_api
-    return self._request(method, uri, signed, **kwargs)
-  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 197, in _request
-    return self._handle_response()
-  File "/home/maxat_kerimbayev/.local/lib/python3.8/site-packages/binance/client.py", line 230, in _handle_response
-    raise BinanceAPIException(self.response)
-binance.exceptions.BinanceAPIException: APIError(code=-1121): Invalid symbol.
-2020-10-12 12:00:14,925 - helper - INFO - helper : 214 - * COMPUSDT -> (24) klines added
-2020-10-12 12:00:15,184 - helper - INFO - helper : 214 - * SOLUSDT -> (24) klines added
-2020-10-12 12:00:15,440 - helper - INFO - helper : 214 - * BTCUSDT -> (24) klines added
-2020-10-12 12:00:15,698 - helper - INFO - helper : 214 - * OMGUSDT -> (24) klines added
-2020-10-12 12:00:15,955 - helper - INFO - helper : 214 - * ICXUSDT -> (24) klines added
-2020-10-12 12:00:16,213 - helper - INFO - helper : 214 - * BLZUSDT -> (24) klines added
-2020-10-12 12:00:16,467 - helper - INFO - helper : 214 - * FTMUSDT -> (24) klines added
-2020-10-12 12:00:16,721 - helper - INFO - helper : 214 - * YFIIUSDT -> (24) klines added
-2020-10-12 12:00:16,978 - helper - INFO - helper : 214 - * LTCUSDT -> (24) klines added
-2020-10-12 12:00:17,236 - helper - INFO - helper : 214 - * BANDUSDT -> (24) klines added
-2020-10-12 12:00:17,487 - helper - INFO - helper : 214 - * XRPUSDT -> (24) klines added
-2020-10-12 12:00:17,741 - helper - INFO - helper : 214 - * SXPUSDT -> (24) klines added
-2020-10-12 12:00:17,997 - helper - INFO - helper : 214 - * CRVUSDT -> (24) klines added
-2020-10-12 12:00:18,259 - helper - INFO - helper : 214 - * DOTUSDT -> (24) klines added
-2020-10-12 12:00:18,512 - helper - INFO - helper : 214 - * EGLDUSDT -> (24) klines added
-2020-10-12 12:00:18,772 - helper - INFO - helper : 214 - * ONTUSDT -> (24) klines added
-2020-10-12 12:00:19,024 - helper - INFO - helper : 214 - * VETUSDT -> (24) klines added
-2020-10-12 12:00:19,284 - helper - INFO - helper : 214 - * TRBUSDT -> (24) klines added
-2020-10-12 12:00:19,536 - helper - INFO - helper : 214 - * ZILUSDT -> (24) klines added
-2020-10-12 12:00:19,795 - helper - INFO - helper : 214 - * FLMUSDT -> (24) klines added
+2020-10-13 08:02:15,193 - helper - INFO - helper : 132 - cant handle DEFIUSDT
+2020-10-13 08:02:15,451 - helper - INFO - helper : 213 - * COMPUSDT -> (24) klines added
+2020-10-13 08:02:15,708 - helper - INFO - helper : 213 - * SOLUSDT -> (24) klines added
+2020-10-13 08:02:15,978 - helper - INFO - helper : 213 - * BTCUSDT -> (24) klines added
+2020-10-13 08:02:16,229 - helper - INFO - helper : 213 - * OMGUSDT -> (24) klines added
+2020-10-13 08:02:16,491 - helper - INFO - helper : 213 - * ICXUSDT -> (24) klines added
+2020-10-13 08:02:16,752 - helper - INFO - helper : 213 - * BLZUSDT -> (24) klines added
+2020-10-13 08:02:17,011 - helper - INFO - helper : 213 - * RENUSDT table created in db
+2020-10-13 08:02:17,914 - helper - INFO - helper : 213 - * FTMUSDT -> (24) klines added
+2020-10-13 08:02:18,166 - helper - INFO - helper : 213 - * TOMOUSDT -> (24) klines added
+2020-10-13 08:02:18,418 - helper - INFO - helper : 213 - * YFIIUSDT -> (24) klines added
+2020-10-13 08:02:18,669 - helper - INFO - helper : 213 - * LTCUSDT -> (24) klines added
+2020-10-13 08:02:18,922 - helper - INFO - helper : 213 - * BANDUSDT -> (24) klines added
+2020-10-13 08:02:19,186 - helper - INFO - helper : 213 - * XRPUSDT -> (24) klines added
+2020-10-13 08:02:19,438 - helper - INFO - helper : 213 - * SXPUSDT -> (24) klines added
+2020-10-13 08:02:19,692 - helper - INFO - helper : 213 - * CRVUSDT -> (24) klines added
+2020-10-13 08:02:19,947 - helper - INFO - helper : 213 - * DOTUSDT -> (24) klines added
+2020-10-13 08:02:20,205 - helper - INFO - helper : 213 - * EGLDUSDT -> (24) klines added
+2020-10-13 08:02:20,463 - helper - INFO - helper : 213 - * ONTUSDT -> (24) klines added
+2020-10-13 08:02:20,721 - helper - INFO - helper : 213 - * VETUSDT -> (24) klines added
+2020-10-13 08:02:20,975 - helper - INFO - helper : 213 - * TRBUSDT -> (24) klines added
+2020-10-13 08:02:21,228 - helper - INFO - helper : 213 - * ZILUSDT -> (24) klines added
+2020-10-13 08:02:21,485 - helper - INFO - helper : 213 - * FLMUSDT -> (24) klines added
+2020-10-13 08:05:03,401 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 08:05:03,401 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 08:05:03,401 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 08:10:03,381 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 08:10:03,382 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 08:10:03,382 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 08:15:03,307 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 08:15:03,307 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 08:15:03,307 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 08:20:03,648 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 08:20:03,648 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 08:20:03,648 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 08:25:04,008 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 08:25:04,008 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 08:25:04,008 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 08:30:02,908 - helper - INFO - helper : 377 - ENJUSDT waiting, price no more than 2%
+2020-10-13 08:30:02,908 - helper - INFO - helper : 377 - TRXUSDT waiting, price no more than 2%
+2020-10-13 08:30:02,908 - helper - INFO - helper : 377 - RLCUSDT waiting, price no more than 2%
+2020-10-13 08:35:02,931 - helper - INFO - helper : 416 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16411
+2020-10-13 08:35:02,931 - helper - INFO - helper : 416 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.0271
+2020-10-13 08:35:02,931 - helper - INFO - helper : 416 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9142
+2020-10-13 08:40:02,945 - helper - INFO - helper : 416 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16451
+2020-10-13 08:40:02,945 - helper - INFO - helper : 416 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02711
+2020-10-13 08:40:02,946 - helper - INFO - helper : 416 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9146
+2020-10-13 08:45:02,962 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.1643
+2020-10-13 08:45:02,962 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02713
+2020-10-13 08:45:02,962 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9164
+2020-10-13 08:46:09,388 - helper - INFO - helper : 254 - * EOSUSDT -> (9) klines added
+2020-10-13 08:46:09,653 - helper - INFO - helper : 254 - * SUSHIUSDT -> (9) klines added
+2020-10-13 08:46:09,909 - helper - INFO - helper : 254 - * BALUSDT -> (9) klines added
+2020-10-13 08:46:10,169 - helper - INFO - helper : 254 - * KNCUSDT -> (9) klines added
+2020-10-13 08:46:10,433 - helper - INFO - helper : 254 - * SRMUSDT -> (9) klines added
+2020-10-13 08:46:10,693 - helper - INFO - helper : 254 - * ENJUSDT -> (9) klines added
+2020-10-13 08:46:10,959 - helper - INFO - helper : 254 - * ZRXUSDT -> (9) klines added
+2020-10-13 08:46:11,221 - helper - INFO - helper : 254 - * QTUMUSDT -> (9) klines added
+2020-10-13 08:46:11,484 - helper - INFO - helper : 254 - * ATOMUSDT -> (9) klines added
+2020-10-13 08:46:11,749 - helper - INFO - helper : 254 - * IOTAUSDT -> (9) klines added
+2020-10-13 08:46:12,013 - helper - INFO - helper : 254 - * WAVESUSDT -> (9) klines added
+2020-10-13 08:46:12,278 - helper - INFO - helper : 254 - * ADAUSDT -> (9) klines added
+2020-10-13 08:46:12,540 - helper - INFO - helper : 254 - * BCHUSDT -> (9) klines added
+2020-10-13 08:46:12,801 - helper - INFO - helper : 254 - * XTZUSDT -> (9) klines added
+2020-10-13 08:46:13,058 - helper - INFO - helper : 254 - * BNBUSDT -> (9) klines added
+2020-10-13 08:46:13,313 - helper - INFO - helper : 254 - * IOSTUSDT -> (9) klines added
+2020-10-13 08:46:13,577 - helper - INFO - helper : 254 - * HNTUSDT -> (9) klines added
+2020-10-13 08:46:13,844 - helper - INFO - helper : 254 - * ETCUSDT -> (9) klines added
+2020-10-13 08:46:14,108 - helper - INFO - helper : 254 - * XMRUSDT -> (9) klines added
+2020-10-13 08:46:14,371 - helper - INFO - helper : 254 - * YFIUSDT -> (9) klines added
+2020-10-13 08:46:14,627 - helper - INFO - helper : 254 - * ZECUSDT -> (9) klines added
+2020-10-13 08:46:14,893 - helper - INFO - helper : 254 - * ETHUSDT -> (9) klines added
+2020-10-13 08:46:15,154 - helper - INFO - helper : 254 - * BZRXUSDT -> (9) klines added
+2020-10-13 08:46:15,411 - helper - INFO - helper : 254 - * BATUSDT -> (9) klines added
+2020-10-13 08:46:15,672 - helper - INFO - helper : 254 - * ALGOUSDT -> (9) klines added
+2020-10-13 08:46:15,932 - helper - INFO - helper : 254 - * DOGEUSDT -> (9) klines added
+2020-10-13 08:46:16,191 - helper - INFO - helper : 254 - * TRXUSDT -> (9) klines added
+2020-10-13 08:46:16,451 - helper - INFO - helper : 254 - * RLCUSDT -> (9) klines added
+2020-10-13 08:46:16,717 - helper - INFO - helper : 254 - * STORJUSDT -> (9) klines added
+2020-10-13 08:46:16,971 - helper - INFO - helper : 254 - * SNXUSDT -> (9) klines added
+2020-10-13 08:46:17,230 - helper - INFO - helper : 254 - * AVAXUSDT -> (9) klines added
+2020-10-13 08:46:17,494 - helper - INFO - helper : 254 - * XLMUSDT -> (9) klines added
+2020-10-13 08:46:17,751 - helper - INFO - helper : 254 - * NEOUSDT -> (9) klines added
+2020-10-13 08:46:18,006 - helper - INFO - helper : 254 - * MKRUSDT -> (9) klines added
+2020-10-13 08:46:18,269 - helper - INFO - helper : 254 - * DASHUSDT -> (9) klines added
+2020-10-13 08:46:18,532 - helper - INFO - helper : 254 - * THETAUSDT -> (9) klines added
+2020-10-13 08:46:18,803 - helper - INFO - helper : 254 - * KAVAUSDT -> (9) klines added
+2020-10-13 08:46:19,060 - helper - INFO - helper : 254 - * UNIUSDT -> (9) klines added
+2020-10-13 08:46:19,324 - helper - INFO - helper : 254 - * RUNEUSDT -> (9) klines added
+2020-10-13 08:46:19,584 - helper - INFO - helper : 254 - * LINKUSDT -> (9) klines added
+2020-10-13 08:46:20,079 - helper - INFO - helper : 254 - * DEFIUSDT table created in db
+2020-10-13 08:46:20,347 - helper - INFO - helper : 254 - * COMPUSDT -> (9) klines added
+2020-10-13 08:46:20,613 - helper - INFO - helper : 254 - * SOLUSDT -> (9) klines added
+2020-10-13 08:46:20,877 - helper - INFO - helper : 254 - * BTCUSDT -> (9) klines added
+2020-10-13 08:46:21,141 - helper - INFO - helper : 254 - * OMGUSDT -> (9) klines added
+2020-10-13 08:46:21,403 - helper - INFO - helper : 254 - * ICXUSDT -> (9) klines added
+2020-10-13 08:46:21,664 - helper - INFO - helper : 254 - * BLZUSDT -> (9) klines added
+2020-10-13 08:46:21,926 - helper - INFO - helper : 254 - * RENUSDT -> (9) klines added
+2020-10-13 08:46:22,188 - helper - INFO - helper : 254 - * FTMUSDT -> (9) klines added
+2020-10-13 08:46:22,442 - helper - INFO - helper : 254 - * TOMOUSDT -> (9) klines added
+2020-10-13 08:46:22,705 - helper - INFO - helper : 254 - * YFIIUSDT -> (9) klines added
+2020-10-13 08:46:22,962 - helper - INFO - helper : 254 - * LTCUSDT -> (9) klines added
+2020-10-13 08:46:23,224 - helper - INFO - helper : 254 - * BANDUSDT -> (9) klines added
+2020-10-13 08:46:23,480 - helper - INFO - helper : 254 - * XRPUSDT -> (9) klines added
+2020-10-13 08:46:23,735 - helper - INFO - helper : 254 - * SXPUSDT -> (9) klines added
+2020-10-13 08:46:23,990 - helper - INFO - helper : 254 - * CRVUSDT -> (9) klines added
+2020-10-13 08:46:24,246 - helper - INFO - helper : 254 - * DOTUSDT -> (9) klines added
+2020-10-13 08:46:24,722 - helper - INFO - helper : 254 - * EGLDUSDT -> (9) klines added
+2020-10-13 08:46:24,980 - helper - INFO - helper : 254 - * ONTUSDT -> (9) klines added
+2020-10-13 08:46:25,894 - helper - INFO - helper : 254 - * VETUSDT -> (9) klines added
+2020-10-13 08:46:26,157 - helper - INFO - helper : 254 - * TRBUSDT -> (9) klines added
+2020-10-13 08:46:26,633 - helper - INFO - helper : 254 - * ZILUSDT -> (9) klines added
+2020-10-13 08:46:26,886 - helper - INFO - helper : 254 - * FLMUSDT -> (9) klines added
+2020-10-13 08:50:03,458 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16324
+2020-10-13 08:50:03,458 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02716
+2020-10-13 08:50:03,458 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9158
+2020-10-13 08:55:04,795 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16352
+2020-10-13 08:55:04,795 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02713
+2020-10-13 08:55:04,795 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9163
+2020-10-13 09:00:03,888 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.1638
+2020-10-13 09:00:03,889 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02714
+2020-10-13 09:00:03,889 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9174
+2020-10-13 09:04:43,072 - helper - INFO - helper : 118 - ** Trades table created with 187 records
+2020-10-13 09:05:02,934 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.1637
+2020-10-13 09:05:02,934 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02721
+2020-10-13 09:05:02,934 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9191
+2020-10-13 09:10:02,932 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16344
+2020-10-13 09:10:02,932 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02717
+2020-10-13 09:10:02,932 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9178
+2020-10-13 09:15:02,908 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16357
+2020-10-13 09:15:02,909 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02718
+2020-10-13 09:15:02,909 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9177
+2020-10-13 09:20:02,899 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16344
+2020-10-13 09:20:02,899 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02715
+2020-10-13 09:20:02,900 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9177
+2020-10-13 09:25:03,311 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16342
+2020-10-13 09:25:03,311 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02714
+2020-10-13 09:25:03,311 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9179
+2020-10-13 09:30:03,232 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16374
+2020-10-13 09:30:03,232 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02713
+2020-10-13 09:30:03,232 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9198
+2020-10-13 09:35:03,255 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16409
+2020-10-13 09:35:03,256 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02714
+2020-10-13 09:35:03,256 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9209
+2020-10-13 09:40:03,234 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16403
+2020-10-13 09:40:03,234 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02713
+2020-10-13 09:40:03,234 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9206
+2020-10-13 09:45:03,149 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16375
+2020-10-13 09:45:03,149 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02709
+2020-10-13 09:45:03,149 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.919
+2020-10-13 09:50:03,155 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16397
+2020-10-13 09:50:03,155 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02708
+2020-10-13 09:50:03,155 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9194
+2020-10-13 09:55:03,125 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16351
+2020-10-13 09:55:03,125 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02704
+2020-10-13 09:55:03,125 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.918
+2020-10-13 10:00:03,038 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.16361
+2020-10-13 10:00:03,038 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02705
+2020-10-13 10:00:03,039 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9191
+2020-10-13 10:05:03,005 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.1629, curr: 0.1633
+2020-10-13 10:05:03,005 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02702
+2020-10-13 10:05:03,005 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9151
+2020-10-13 10:10:03,823 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.16235, curr: 0.16235
+2020-10-13 10:10:03,823 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02694, curr: 0.02695
+2020-10-13 10:10:03,823 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9076, curr: 0.9104
+2020-10-13 10:15:06,250 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.16101, curr: 0.16101
+2020-10-13 10:15:06,250 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02684
+2020-10-13 10:15:06,251 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9068, curr: 0.9068
+2020-10-13 10:20:03,675 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.16101, curr: 0.16344
+2020-10-13 10:20:03,676 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02714
+2020-10-13 10:20:03,676 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9068, curr: 0.9191
+2020-10-13 10:25:03,676 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.16101, curr: 0.16399
+2020-10-13 10:25:03,676 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02714
+2020-10-13 10:25:03,677 - helper - INFO - helper : 418 - RLCUSDT waiting to buy, req: 0.9068, curr: 0.9219
+2020-10-13 10:30:03,646 - helper - INFO - helper : 418 - ENJUSDT waiting to buy, req: 0.16101, curr: 0.16382
+2020-10-13 10:30:03,646 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02718
+2020-10-13 10:30:03,902 - helper - INFO - helper : 412 - ** Placing long order: RLCUSDT for amount of 27.0 at price: 0.9258
+2020-10-13 10:35:03,119 - helper - INFO - helper : 412 - ** Placing long order: ENJUSDT for amount of 152.0 at price: 0.16472
+2020-10-13 10:35:03,120 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02723
+2020-10-13 10:40:03,148 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02726
+2020-10-13 10:45:03,093 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02725
+2020-10-13 10:50:03,054 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02722
+2020-10-13 10:55:03,007 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.0272
+2020-10-13 11:00:03,050 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02721
+2020-10-13 11:05:03,170 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02727
+2020-10-13 11:10:03,150 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02723
+2020-10-13 11:12:04,601 - helper - INFO - helper : 110 - ** Trades table updated with 2 records
+2020-10-13 11:15:03,106 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02721
+2020-10-13 11:20:03,071 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02716
+2020-10-13 11:25:03,037 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02715
+2020-10-13 11:30:02,997 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02718
+2020-10-13 11:35:02,910 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02721
+2020-10-13 11:40:02,888 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02721
+2020-10-13 11:45:02,818 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02717
+2020-10-13 11:50:03,806 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02717
+2020-10-13 11:55:03,766 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.0271
+2020-10-13 12:00:06,458 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.0271
+2020-10-13 12:02:06,277 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 12:05:03,453 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02708
+2020-10-13 12:10:03,378 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02711
+2020-10-13 12:15:03,396 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02713
+2020-10-13 12:20:03,360 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02713
+2020-10-13 12:25:03,281 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02712
+2020-10-13 12:30:03,202 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02712
+2020-10-13 12:35:03,167 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02711
+2020-10-13 12:40:03,105 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02712
+2020-10-13 12:45:03,098 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02716
+2020-10-13 12:50:03,120 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02707
+2020-10-13 12:55:03,079 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.027
+2020-10-13 13:00:04,029 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02701
+2020-10-13 13:01:02,419 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 13:05:03,313 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02698
+2020-10-13 13:10:03,228 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02697
+2020-10-13 13:15:03,112 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02684
+2020-10-13 13:20:03,009 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02691
+2020-10-13 13:25:02,974 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02686
+2020-10-13 13:30:02,940 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02684, curr: 0.02689
+2020-10-13 13:35:03,129 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02681, curr: 0.02681
+2020-10-13 13:40:03,170 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02672, curr: 0.02672
+2020-10-13 13:45:03,227 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02668, curr: 0.02668
+2020-10-13 13:50:03,327 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02668, curr: 0.02674
+2020-10-13 13:55:03,702 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02668, curr: 0.02668
+2020-10-13 14:00:03,679 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02665, curr: 0.02665
+2020-10-13 14:01:03,148 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 14:05:03,509 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02665, curr: 0.02669
+2020-10-13 14:10:03,511 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02664, curr: 0.02664
+2020-10-13 14:15:03,460 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02656
+2020-10-13 14:20:03,800 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02669
+2020-10-13 14:25:03,832 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0267
+2020-10-13 14:30:03,898 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02674
+2020-10-13 14:35:02,871 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02673
+2020-10-13 14:40:03,813 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 14:45:03,784 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02676
+2020-10-13 14:50:03,719 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0268
+2020-10-13 14:55:03,701 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 15:00:03,738 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02692
+2020-10-13 15:01:03,281 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 15:05:03,644 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02685
+2020-10-13 15:10:03,674 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02688
+2020-10-13 15:15:03,655 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02687
+2020-10-13 15:20:03,578 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02687
+2020-10-13 15:25:03,533 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02686
+2020-10-13 15:30:03,470 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 15:35:03,359 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02682
+2020-10-13 15:40:03,227 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02686
+2020-10-13 15:45:03,124 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02682
+2020-10-13 15:50:03,104 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0268
+2020-10-13 15:55:03,207 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 16:00:03,858 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 16:01:03,483 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 16:02:03,869 - helper - INFO - helper : 254 - * EOSUSDT -> (87) klines added
+2020-10-13 16:02:04,142 - helper - INFO - helper : 254 - * SUSHIUSDT -> (87) klines added
+2020-10-13 16:02:04,402 - helper - INFO - helper : 254 - * BALUSDT -> (87) klines added
+2020-10-13 16:02:04,660 - helper - INFO - helper : 254 - * KNCUSDT -> (87) klines added
+2020-10-13 16:02:04,925 - helper - INFO - helper : 254 - * SRMUSDT -> (87) klines added
+2020-10-13 16:02:05,183 - helper - INFO - helper : 254 - * ENJUSDT -> (87) klines added
+2020-10-13 16:02:05,445 - helper - INFO - helper : 254 - * ZRXUSDT -> (87) klines added
+2020-10-13 16:02:05,702 - helper - INFO - helper : 254 - * QTUMUSDT -> (87) klines added
+2020-10-13 16:02:05,957 - helper - INFO - helper : 254 - * ATOMUSDT -> (87) klines added
+2020-10-13 16:02:06,222 - helper - INFO - helper : 254 - * IOTAUSDT -> (87) klines added
+2020-10-13 16:02:06,482 - helper - INFO - helper : 254 - * WAVESUSDT -> (87) klines added
+2020-10-13 16:02:06,741 - helper - INFO - helper : 254 - * ADAUSDT -> (87) klines added
+2020-10-13 16:02:07,002 - helper - INFO - helper : 254 - * BCHUSDT -> (87) klines added
+2020-10-13 16:02:07,265 - helper - INFO - helper : 254 - * XTZUSDT -> (87) klines added
+2020-10-13 16:02:07,541 - helper - INFO - helper : 254 - * BNBUSDT -> (87) klines added
+2020-10-13 16:02:07,804 - helper - INFO - helper : 254 - * IOSTUSDT -> (87) klines added
+2020-10-13 16:02:08,099 - helper - INFO - helper : 254 - * HNTUSDT -> (87) klines added
+2020-10-13 16:02:08,363 - helper - INFO - helper : 254 - * ETCUSDT -> (87) klines added
+2020-10-13 16:02:08,626 - helper - INFO - helper : 254 - * XMRUSDT -> (87) klines added
+2020-10-13 16:02:08,895 - helper - INFO - helper : 254 - * YFIUSDT -> (87) klines added
+2020-10-13 16:02:09,210 - helper - INFO - helper : 254 - * ZECUSDT -> (87) klines added
+2020-10-13 16:02:09,475 - helper - INFO - helper : 254 - * ETHUSDT -> (87) klines added
+2020-10-13 16:02:09,728 - helper - INFO - helper : 254 - * BZRXUSDT -> (87) klines added
+2020-10-13 16:02:10,005 - helper - INFO - helper : 254 - * BATUSDT -> (87) klines added
+2020-10-13 16:02:10,270 - helper - INFO - helper : 254 - * ALGOUSDT -> (87) klines added
+2020-10-13 16:02:10,536 - helper - INFO - helper : 254 - * DOGEUSDT -> (87) klines added
+2020-10-13 16:02:10,805 - helper - INFO - helper : 254 - * TRXUSDT -> (87) klines added
+2020-10-13 16:02:11,062 - helper - INFO - helper : 254 - * RLCUSDT -> (87) klines added
+2020-10-13 16:02:11,320 - helper - INFO - helper : 254 - * STORJUSDT -> (87) klines added
+2020-10-13 16:02:11,585 - helper - INFO - helper : 254 - * SNXUSDT -> (87) klines added
+2020-10-13 16:02:11,849 - helper - INFO - helper : 254 - * AVAXUSDT -> (87) klines added
+2020-10-13 16:02:12,118 - helper - INFO - helper : 254 - * XLMUSDT -> (87) klines added
+2020-10-13 16:02:12,389 - helper - INFO - helper : 254 - * NEOUSDT -> (87) klines added
+2020-10-13 16:02:12,650 - helper - INFO - helper : 254 - * MKRUSDT -> (87) klines added
+2020-10-13 16:02:12,913 - helper - INFO - helper : 254 - * DASHUSDT -> (87) klines added
+2020-10-13 16:02:13,173 - helper - INFO - helper : 254 - * THETAUSDT -> (87) klines added
+2020-10-13 16:02:13,434 - helper - INFO - helper : 254 - * KAVAUSDT -> (87) klines added
+2020-10-13 16:02:13,701 - helper - INFO - helper : 254 - * UNIUSDT -> (87) klines added
+2020-10-13 16:02:13,957 - helper - INFO - helper : 254 - * RUNEUSDT -> (87) klines added
+2020-10-13 16:02:14,212 - helper - INFO - helper : 254 - * LINKUSDT -> (87) klines added
+2020-10-13 16:02:14,707 - helper - INFO - helper : 254 - * DEFIUSDT -> (87) klines added
+2020-10-13 16:02:14,968 - helper - INFO - helper : 254 - * COMPUSDT -> (87) klines added
+2020-10-13 16:02:15,888 - helper - INFO - helper : 254 - * SOLUSDT -> (87) klines added
+2020-10-13 16:02:16,152 - helper - INFO - helper : 254 - * BTCUSDT -> (87) klines added
+2020-10-13 16:02:16,423 - helper - INFO - helper : 254 - * OMGUSDT -> (87) klines added
+2020-10-13 16:02:16,691 - helper - INFO - helper : 254 - * ICXUSDT -> (87) klines added
+2020-10-13 16:02:16,970 - helper - INFO - helper : 254 - * BLZUSDT -> (87) klines added
+2020-10-13 16:02:17,238 - helper - INFO - helper : 254 - * RENUSDT -> (87) klines added
+2020-10-13 16:02:17,496 - helper - INFO - helper : 254 - * FTMUSDT -> (87) klines added
+2020-10-13 16:02:17,782 - helper - INFO - helper : 254 - * TOMOUSDT -> (87) klines added
+2020-10-13 16:02:18,045 - helper - INFO - helper : 254 - * YFIIUSDT -> (87) klines added
+2020-10-13 16:02:18,312 - helper - INFO - helper : 254 - * LTCUSDT -> (87) klines added
+2020-10-13 16:02:18,576 - helper - INFO - helper : 254 - * BANDUSDT -> (87) klines added
+2020-10-13 16:02:18,859 - helper - INFO - helper : 254 - * XRPUSDT -> (87) klines added
+2020-10-13 16:02:19,120 - helper - INFO - helper : 254 - * SXPUSDT -> (87) klines added
+2020-10-13 16:02:19,381 - helper - INFO - helper : 254 - * CRVUSDT -> (87) klines added
+2020-10-13 16:02:19,644 - helper - INFO - helper : 254 - * DOTUSDT -> (87) klines added
+2020-10-13 16:02:19,913 - helper - INFO - helper : 254 - * EGLDUSDT -> (87) klines added
+2020-10-13 16:02:20,181 - helper - INFO - helper : 254 - * ONTUSDT -> (87) klines added
+2020-10-13 16:02:20,457 - helper - INFO - helper : 254 - * VETUSDT -> (87) klines added
+2020-10-13 16:02:20,722 - helper - INFO - helper : 254 - * TRBUSDT -> (87) klines added
+2020-10-13 16:02:20,987 - helper - INFO - helper : 254 - * ZILUSDT -> (87) klines added
+2020-10-13 16:02:21,244 - helper - INFO - helper : 254 - * FLMUSDT -> (87) klines added
+2020-10-13 16:05:03,362 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02676
+2020-10-13 16:10:03,348 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02672
+2020-10-13 16:15:03,349 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02673
+2020-10-13 16:20:03,396 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02676
+2020-10-13 16:25:03,879 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02683
+2020-10-13 16:30:03,868 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02683
+2020-10-13 16:35:02,843 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02685
+2020-10-13 16:40:03,825 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02683
+2020-10-13 16:45:03,764 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 16:50:03,726 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 16:55:03,669 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02684
+2020-10-13 17:00:03,595 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02684
+2020-10-13 17:01:03,124 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 17:05:03,048 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02684
+2020-10-13 17:10:02,978 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 17:15:02,890 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 17:20:02,873 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02687
+2020-10-13 17:25:04,254 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02683
+2020-10-13 17:30:03,219 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 17:35:03,166 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 17:40:03,103 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 17:45:03,098 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02675
+2020-10-13 17:50:03,046 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02671
+2020-10-13 17:55:03,012 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02669
+2020-10-13 18:00:03,003 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0266
+2020-10-13 18:01:02,866 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 18:05:03,925 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02665
+2020-10-13 18:10:02,885 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02668
+2020-10-13 18:15:02,801 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02672
+2020-10-13 18:20:03,757 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02674
+2020-10-13 18:25:03,651 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02671
+2020-10-13 18:30:03,560 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02669
+2020-10-13 18:35:07,827 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02668
+2020-10-13 18:40:03,307 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02666
+2020-10-13 18:45:03,276 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02666
+2020-10-13 18:50:03,419 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02661
+2020-10-13 18:55:03,392 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02663
+2020-10-13 19:00:03,544 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02665
+2020-10-13 19:01:03,580 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 19:05:03,696 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02667
+2020-10-13 19:10:03,774 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0267
+2020-10-13 19:15:03,876 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02673
+2020-10-13 19:20:03,307 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02674
+2020-10-13 19:25:03,766 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 19:30:03,729 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 19:35:04,155 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02675
+2020-10-13 19:40:03,091 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02673
+2020-10-13 19:45:03,159 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02676
+2020-10-13 19:50:03,097 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02674
+2020-10-13 19:55:03,093 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02673
+2020-10-13 20:00:03,286 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0267
+2020-10-13 20:01:02,766 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 20:05:03,842 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02671
+2020-10-13 20:10:03,813 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02668
+2020-10-13 20:15:03,808 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02675
+2020-10-13 20:20:03,773 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02673
+2020-10-13 20:25:03,793 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02673
+2020-10-13 20:30:03,828 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02675
+2020-10-13 20:35:04,224 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02668
+2020-10-13 20:40:03,152 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0267
+2020-10-13 20:45:03,079 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02667
+2020-10-13 20:50:03,042 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02672
+2020-10-13 20:55:02,997 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02672
+2020-10-13 21:00:03,044 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02674
+2020-10-13 21:01:02,529 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 21:05:03,477 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02675
+2020-10-13 21:10:03,472 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02676
+2020-10-13 21:15:03,506 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02673
+2020-10-13 21:20:03,470 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 21:25:03,378 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 21:30:03,722 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02676
+2020-10-13 21:35:03,684 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02674
+2020-10-13 21:40:03,648 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02672
+2020-10-13 21:45:04,422 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 21:50:03,484 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 21:55:03,524 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 22:00:03,466 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 22:01:02,892 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 22:05:02,840 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 22:10:03,775 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0268
+2020-10-13 22:15:03,680 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02684
+2020-10-13 22:20:03,576 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02682
+2020-10-13 22:25:03,896 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0268
+2020-10-13 22:30:03,245 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02682
+2020-10-13 22:35:03,184 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 22:40:03,533 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02678
+2020-10-13 22:45:03,445 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02684
+2020-10-13 22:50:03,327 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 22:55:03,226 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02684
+2020-10-13 23:00:03,135 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02687
+2020-10-13 23:01:02,532 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-13 23:05:03,442 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 23:10:03,342 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 23:15:03,200 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.0268
+2020-10-13 23:20:03,124 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 23:25:03,015 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02684
+2020-10-13 23:30:03,357 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02683
+2020-10-13 23:35:03,305 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02684
+2020-10-13 23:40:03,656 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02681
+2020-10-13 23:45:03,571 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02683
+2020-10-13 23:50:03,942 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02683
+2020-10-13 23:55:02,888 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02656, curr: 0.02679
+2020-10-13 23:58:05,229 - helper - INFO - helper : 278 - ** Trend change : KNCUSDT, 1 , 1.011
+2020-10-13 23:58:05,730 - helper - INFO - helper : 278 - ** Trend change : ENJUSDT, 1 , 0.1659
+2020-10-13 23:58:05,993 - helper - INFO - helper : 278 - ** Trend change : ZRXUSDT, 1 , 0.4172
+2020-10-13 23:58:07,026 - helper - INFO - helper : 278 - ** Trend change : WAVESUSDT, 1 , 2.5179
+2020-10-13 23:58:11,770 - helper - INFO - helper : 278 - ** Trend change : TRXUSDT, 1 , 0.02709
+2020-10-13 23:58:22,770 - helper - INFO - helper : 137 - ['ZRXUSDT']['hlv'] {'new_value': 1, 'old_value': -1}
+2020-10-13 23:58:22,770 - helper - INFO - helper : 137 - ['WAVESUSDT']['hlv'] {'new_value': 1, 'old_value': -1}
+2020-10-13 23:58:23,252 - helper - INFO - helper : 306 - leverage adjustment: RENUSDT
+2020-10-13 23:58:23,504 - helper - INFO - helper : 210 -  denoms updated
+2020-10-14 00:00:04,427 - helper - INFO - helper : 388 - ** Already Long for: KNCUSDT, clearing request
+2020-10-14 00:00:04,427 - helper - INFO - helper : 388 - ** Already Long for: ENJUSDT, clearing request
+2020-10-14 00:00:04,427 - helper - INFO - helper : 418 - ZRXUSDT waiting to buy, req: 0.4172, curr: 0.4183
+2020-10-14 00:00:04,427 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5179, curr: 2.5187
+2020-10-14 00:00:04,427 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02685, curr: 0.02685
+2020-10-14 00:01:03,361 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-14 00:02:04,012 - helper - INFO - helper : 254 - * EOSUSDT -> (96) klines added
+2020-10-14 00:02:04,281 - helper - INFO - helper : 254 - * SUSHIUSDT -> (96) klines added
+2020-10-14 00:02:04,543 - helper - INFO - helper : 254 - * BALUSDT -> (96) klines added
+2020-10-14 00:02:05,026 - helper - INFO - helper : 254 - * KNCUSDT -> (96) klines added
+2020-10-14 00:02:05,298 - helper - INFO - helper : 254 - * SRMUSDT -> (96) klines added
+2020-10-14 00:02:05,566 - helper - INFO - helper : 254 - * ENJUSDT -> (96) klines added
+2020-10-14 00:02:05,823 - helper - INFO - helper : 254 - * ZRXUSDT -> (96) klines added
+2020-10-14 00:02:06,085 - helper - INFO - helper : 254 - * QTUMUSDT -> (96) klines added
+2020-10-14 00:02:06,350 - helper - INFO - helper : 254 - * ATOMUSDT -> (96) klines added
+2020-10-14 00:02:06,608 - helper - INFO - helper : 254 - * IOTAUSDT -> (96) klines added
+2020-10-14 00:02:06,866 - helper - INFO - helper : 254 - * WAVESUSDT -> (96) klines added
+2020-10-14 00:02:07,131 - helper - INFO - helper : 254 - * ADAUSDT -> (96) klines added
+2020-10-14 00:02:07,393 - helper - INFO - helper : 254 - * BCHUSDT -> (96) klines added
+2020-10-14 00:02:07,670 - helper - INFO - helper : 254 - * XTZUSDT -> (96) klines added
+2020-10-14 00:02:07,928 - helper - INFO - helper : 254 - * BNBUSDT -> (96) klines added
+2020-10-14 00:02:08,194 - helper - INFO - helper : 254 - * IOSTUSDT -> (96) klines added
+2020-10-14 00:02:09,095 - helper - INFO - helper : 254 - * HNTUSDT -> (96) klines added
+2020-10-14 00:02:09,370 - helper - INFO - helper : 254 - * ETCUSDT -> (96) klines added
+2020-10-14 00:02:09,633 - helper - INFO - helper : 254 - * XMRUSDT -> (96) klines added
+2020-10-14 00:02:09,894 - helper - INFO - helper : 254 - * YFIUSDT -> (96) klines added
+2020-10-14 00:02:10,153 - helper - INFO - helper : 254 - * ZECUSDT -> (96) klines added
+2020-10-14 00:02:10,415 - helper - INFO - helper : 254 - * ETHUSDT -> (96) klines added
+2020-10-14 00:02:10,671 - helper - INFO - helper : 254 - * BZRXUSDT -> (96) klines added
+2020-10-14 00:02:10,939 - helper - INFO - helper : 254 - * BATUSDT -> (96) klines added
+2020-10-14 00:02:11,219 - helper - INFO - helper : 254 - * ALGOUSDT -> (96) klines added
+2020-10-14 00:02:11,482 - helper - INFO - helper : 254 - * DOGEUSDT -> (96) klines added
+2020-10-14 00:02:11,759 - helper - INFO - helper : 254 - * TRXUSDT -> (96) klines added
+2020-10-14 00:02:12,667 - helper - INFO - helper : 254 - * RLCUSDT -> (96) klines added
+2020-10-14 00:02:12,933 - helper - INFO - helper : 254 - * STORJUSDT -> (96) klines added
+2020-10-14 00:02:13,200 - helper - INFO - helper : 254 - * SNXUSDT -> (96) klines added
+2020-10-14 00:02:13,462 - helper - INFO - helper : 254 - * AVAXUSDT -> (96) klines added
+2020-10-14 00:02:13,726 - helper - INFO - helper : 254 - * XLMUSDT -> (96) klines added
+2020-10-14 00:02:13,993 - helper - INFO - helper : 254 - * NEOUSDT -> (96) klines added
+2020-10-14 00:02:14,259 - helper - INFO - helper : 254 - * MKRUSDT -> (96) klines added
+2020-10-14 00:02:14,518 - helper - INFO - helper : 254 - * DASHUSDT -> (96) klines added
+2020-10-14 00:02:14,781 - helper - INFO - helper : 254 - * THETAUSDT -> (96) klines added
+2020-10-14 00:02:15,051 - helper - INFO - helper : 254 - * KAVAUSDT -> (96) klines added
+2020-10-14 00:02:15,314 - helper - INFO - helper : 254 - * UNIUSDT -> (96) klines added
+2020-10-14 00:02:15,585 - helper - INFO - helper : 254 - * RUNEUSDT -> (96) klines added
+2020-10-14 00:02:15,852 - helper - INFO - helper : 254 - * LINKUSDT -> (96) klines added
+2020-10-14 00:02:16,353 - helper - INFO - helper : 254 - * DEFIUSDT -> (96) klines added
+2020-10-14 00:02:16,613 - helper - INFO - helper : 254 - * COMPUSDT -> (96) klines added
+2020-10-14 00:02:16,875 - helper - INFO - helper : 254 - * SOLUSDT -> (96) klines added
+2020-10-14 00:02:17,143 - helper - INFO - helper : 254 - * BTCUSDT -> (96) klines added
+2020-10-14 00:02:17,408 - helper - INFO - helper : 254 - * OMGUSDT -> (96) klines added
+2020-10-14 00:02:17,667 - helper - INFO - helper : 254 - * ICXUSDT -> (96) klines added
+2020-10-14 00:02:18,580 - helper - INFO - helper : 254 - * BLZUSDT -> (96) klines added
+2020-10-14 00:02:18,839 - helper - INFO - helper : 254 - * RENUSDT -> (96) klines added
+2020-10-14 00:02:19,111 - helper - INFO - helper : 254 - * FTMUSDT -> (96) klines added
+2020-10-14 00:02:19,369 - helper - INFO - helper : 254 - * TOMOUSDT -> (96) klines added
+2020-10-14 00:02:19,625 - helper - INFO - helper : 254 - * YFIIUSDT -> (96) klines added
+2020-10-14 00:02:19,880 - helper - INFO - helper : 254 - * LTCUSDT -> (96) klines added
+2020-10-14 00:02:20,138 - helper - INFO - helper : 254 - * BANDUSDT -> (96) klines added
+2020-10-14 00:02:20,400 - helper - INFO - helper : 254 - * XRPUSDT -> (96) klines added
+2020-10-14 00:02:20,662 - helper - INFO - helper : 254 - * SXPUSDT -> (96) klines added
+2020-10-14 00:02:20,955 - helper - INFO - helper : 254 - * CRVUSDT -> (96) klines added
+2020-10-14 00:02:21,234 - helper - INFO - helper : 254 - * DOTUSDT -> (96) klines added
+2020-10-14 00:02:21,544 - helper - INFO - helper : 254 - * EGLDUSDT -> (96) klines added
+2020-10-14 00:02:21,802 - helper - INFO - helper : 254 - * ONTUSDT -> (96) klines added
+2020-10-14 00:02:22,066 - helper - INFO - helper : 254 - * VETUSDT -> (96) klines added
+2020-10-14 00:02:22,329 - helper - INFO - helper : 254 - * TRBUSDT -> (96) klines added
+2020-10-14 00:02:22,588 - helper - INFO - helper : 254 - * ZILUSDT -> (96) klines added
+2020-10-14 00:02:22,845 - helper - INFO - helper : 254 - * FLMUSDT -> (96) klines added
+2020-10-14 00:05:03,781 - helper - INFO - helper : 418 - ZRXUSDT waiting to buy, req: 0.4172, curr: 0.4182
+2020-10-14 00:05:03,781 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.513
+2020-10-14 00:05:03,781 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02679
+2020-10-14 00:10:03,728 - helper - INFO - helper : 418 - ZRXUSDT waiting to buy, req: 0.4172, curr: 0.4186
+2020-10-14 00:10:03,729 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5142
+2020-10-14 00:10:03,729 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02679
+2020-10-14 00:15:04,111 - helper - INFO - helper : 418 - ZRXUSDT waiting to buy, req: 0.4172, curr: 0.4205
+2020-10-14 00:15:04,112 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5187
+2020-10-14 00:15:04,112 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02687
+2020-10-14 00:20:03,004 - helper - INFO - helper : 418 - ZRXUSDT waiting to buy, req: 0.4172, curr: 0.424
+2020-10-14 00:20:03,005 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.525
+2020-10-14 00:20:03,005 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02689
+2020-10-14 00:25:03,131 - helper - INFO - helper : 412 - ** Placing long order: ZRXUSDT for amount of 58.6 at price: 0.4264
+2020-10-14 00:25:03,132 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5238
+2020-10-14 00:25:03,132 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02689
+2020-10-14 00:30:03,078 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5208
+2020-10-14 00:30:03,079 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02691
+2020-10-14 00:35:03,074 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5189
+2020-10-14 00:35:03,075 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02691
+2020-10-14 00:40:03,474 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.522
+2020-10-14 00:40:03,474 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02696
+2020-10-14 00:45:03,400 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5219
+2020-10-14 00:45:03,400 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02699
+2020-10-14 00:50:03,268 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5232
+2020-10-14 00:50:03,268 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02694
+2020-10-14 00:55:03,213 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5228
+2020-10-14 00:55:03,214 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02697
+2020-10-14 01:00:03,135 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5233
+2020-10-14 01:00:03,135 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02694
+2020-10-14 01:01:02,565 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-14 01:05:03,489 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5227
+2020-10-14 01:05:03,490 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02694
+2020-10-14 01:10:03,426 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5215
+2020-10-14 01:10:03,426 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02694
+2020-10-14 01:15:03,352 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5216
+2020-10-14 01:15:03,352 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02698
+2020-10-14 01:20:03,308 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5191
+2020-10-14 01:20:03,309 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02694
+2020-10-14 01:25:03,323 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5138
+2020-10-14 01:25:03,323 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02691
+2020-10-14 01:30:03,218 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5133
+2020-10-14 01:30:03,218 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02687
+2020-10-14 01:35:03,126 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5145
+2020-10-14 01:35:03,126 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02688
+2020-10-14 01:40:03,051 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5159
+2020-10-14 01:40:03,051 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02684
+2020-10-14 01:45:03,411 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.513, curr: 2.5132
+2020-10-14 01:45:03,411 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02688
+2020-10-14 01:50:03,264 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5114, curr: 2.5114
+2020-10-14 01:50:03,264 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02686
+2020-10-14 01:55:04,005 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5114, curr: 2.5114
+2020-10-14 01:55:04,005 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02685
+2020-10-14 02:00:02,919 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5114, curr: 2.5148
+2020-10-14 02:00:02,919 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02688
+2020-10-14 02:01:02,350 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-14 02:05:03,294 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.51, curr: 2.51
+2020-10-14 02:05:03,295 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02685
+2020-10-14 02:10:03,195 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5075, curr: 2.5075
+2020-10-14 02:10:03,195 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02682
+2020-10-14 02:15:03,496 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5075, curr: 2.5092
+2020-10-14 02:15:03,496 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02681
+2020-10-14 02:20:03,376 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5075, curr: 2.5108
+2020-10-14 02:20:03,377 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.0268
+2020-10-14 02:25:03,284 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5075, curr: 2.5109
+2020-10-14 02:25:03,284 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.0268
+2020-10-14 02:30:03,175 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5075, curr: 2.5146
+2020-10-14 02:30:03,176 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02683
+2020-10-14 02:35:03,092 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5075, curr: 2.5131
+2020-10-14 02:35:03,093 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02686
+2020-10-14 02:40:02,992 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5056, curr: 2.5056
+2020-10-14 02:40:02,992 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02684
+2020-10-14 02:45:02,943 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5034
+2020-10-14 02:45:02,944 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02684
+2020-10-14 02:50:02,811 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5034
+2020-10-14 02:50:02,811 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02681
+2020-10-14 02:55:03,701 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5094
+2020-10-14 02:55:03,701 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02684
+2020-10-14 03:00:03,616 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5083
+2020-10-14 03:00:03,616 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02682
+2020-10-14 03:01:03,077 - helper - INFO - helper : 472 - * snapshot taken
+2020-10-14 03:05:02,980 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5138
+2020-10-14 03:05:02,981 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02684
+2020-10-14 03:10:02,877 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5163
+2020-10-14 03:10:02,877 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02686
+2020-10-14 03:15:03,735 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5147
+2020-10-14 03:15:03,735 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02686
+2020-10-14 03:20:03,603 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5174
+2020-10-14 03:20:03,604 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02685
+2020-10-14 03:25:04,341 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5191
+2020-10-14 03:25:04,341 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02685
+2020-10-14 03:30:03,164 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5167
+2020-10-14 03:30:03,164 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02684
+2020-10-14 03:35:03,009 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5167
+2020-10-14 03:35:03,009 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02685
+2020-10-14 03:40:02,869 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5212
+2020-10-14 03:40:02,869 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02687
+2020-10-14 03:45:03,765 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5227
+2020-10-14 03:45:03,765 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02687
+2020-10-14 03:50:04,501 - helper - INFO - helper : 418 - WAVESUSDT waiting to buy, req: 2.5034, curr: 2.5245
+2020-10-14 03:50:04,501 - helper - INFO - helper : 418 - TRXUSDT waiting to buy, req: 0.02679, curr: 0.02687

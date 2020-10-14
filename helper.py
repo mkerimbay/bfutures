@@ -2,7 +2,7 @@ import pandas as pd
 pd.set_option('display.max_columns', 10)
 pd.set_option('display.max_rows', 500)
 import numpy as np
-import sys
+from datetime import datetime as dt
 import traceback
 import json
 from _myconfig import *
@@ -70,6 +70,14 @@ def last_time(s):
     return df['time'].values[0]
 
 
+def last_orderId(table):
+    q = 'select * from ' + table + ' order by rowid desc limit 1'
+    cur.execute(q)
+    df = pd.read_sql(q, con)
+    df.time = pd.to_datetime(df.time)
+    return df['id'].values[0], df['orderId'].values[0]
+
+
 def get_data_sql(s):
     # try:
     q = 'select * from {}'.format(s)
@@ -77,6 +85,37 @@ def get_data_sql(s):
     # except Exception as e:
     #     logger.exception(e)
     #     return pd.DataFrame()
+
+
+def store_trades():
+    table_name = 'Trades'
+    df = pd.DataFrame(client.futures_account_trades())
+    df.time = pd.to_datetime(df.time, unit='ms')
+    df['id'] = df['id'].astype(str)
+    df['orderId'] = df['orderId'].astype(str)
+    df['price'] = df['price'].astype(float)
+    df['qty'] = df['qty'].astype(float)
+    df['realizedPnl'] = df['realizedPnl'].astype(float)
+    df['quoteQty'] = df['quoteQty'].astype(float)
+    df['commission'] = df['commission'].astype(float)
+    if table_exists(table_name):
+        _id, _order = last_orderId(table_name)
+        print(_id, _order)
+        try:
+            ind = df[(df['id'] == _id) & (df['orderId'] == _order)].index[0]
+            df = df[ind+1:]
+            if df.shape[0] > 0:
+                df.to_sql(table_name, con, index=None, if_exists='append')
+                msg = '** Trades table updated with {} records'.format(df.shape[0])
+                logger.info(msg)
+        except:
+            df.to_sql(table_name, con, index=None, if_exists='append')
+            msg = '* error getting last trade id from sql, appending all..'
+            logger.info(msg)
+    else:
+        df.to_sql(table_name, con, index=None)
+        msg = '** Trades table created with {} records'.format(df.shape[0])
+        logger.info(msg)
 
 
 def read_json(fn):
@@ -113,9 +152,11 @@ def log_traceback(ex, ex_traceback=None):
 
 
 def get_ohlcv(s,interval):
-    # kl = client.futures_klines(symbol=s, interval=interval)
     try:
-        kl = client.get_klines(symbol=s, interval=interval)
+        try:
+            kl = client.get_klines(symbol=s, interval=interval)
+        except:
+            kl = client.futures_klines(symbol=s, interval=interval)
         df = pd.DataFrame(kl)
         df = df[[0, 1, 2, 3, 4, 5]]
         df.columns = ['time', 'open', 'high', 'low', 'close', 'volume']
@@ -128,7 +169,8 @@ def get_ohlcv(s,interval):
         return df
     except Exception as e:
         logger.exception(e)
-        print('cant handle {}'.format(s))
+        msg = 'cant handle {}'.format(s)
+        logger.info(msg)
         return pd.DataFrame()
 
 
@@ -145,7 +187,6 @@ def f_positions():
         return df
     except Exception as e:
         logger.exception(e)
-        print('wrong')
 
 
 def get_denom(d, col):
@@ -175,7 +216,7 @@ def latest_prices():
     try:
         df = pd.DataFrame(client.futures_ticker())
         df = df[['symbol', 'lastPrice']]
-
+        df['lastPrice'] = df['lastPrice'].astype(float)
         return df
         # df = df.set_index('symbol')
         # d_new = df.T.to_dict()
@@ -231,7 +272,10 @@ def update_trend(ssl=20):
                     d['hlv'] = last_hlv
                     if df.shape[0] > 1 and len(set(df.tail(2)['hlv'].values)) > 1:
                         d['req'] = last_hlv
-                        d['reqPrice'] = df.tail(1)['close'].values[0]
+                        reqPrice = df.tail(1)['close'].values[0]
+                        d['reqPrice'] = reqPrice
+                        msg = '** Trend change : {}, {} , {}'.format(s, last_hlv, reqPrice)
+                        logger.info(msg)
             if d:
                 d_trend[s] = d
                 print(s, d)
@@ -271,13 +315,23 @@ def adjust_prices(d):
     else:
         return d['lastPrice']
 
-def get_balance():
-    d = client.futures_position_information()
-    print(d.keys())
+def available_usd():
+    d = client.futures_account()['assets']
+    for each in d:
+        if each['asset'] == 'USDT':
+            return float(each['maxWithdrawAmount'])
+    return 0
 
 
+def get_amount(s, p, l):
+    denom = read_json(fname_denom)[s]
+    dQty = denom['dQty']
+    dPrice = denom['dPrice']
+    return round(trade_amnt*l/p, dQty)
 
-    return
+
+def change_short(a,b):
+    return round((a/b-1)*100,2)
 
 
 def trade():
@@ -290,37 +344,136 @@ def trade():
     """
 
     d_m = read_json(fname_master)
+    d_req = {}
+    for k,v in d_m.items():
+        if 'req' in v:
+            d_req[k] = v
+    print(d_req)
 
-    df_s = f_positions()[['symbol', 'entryPrice', 'positionAmt', 'unRealizedProfit']]
-    d_s = df_s[df_s['entryPrice'] > 0].set_index('symbol').T.to_dict()
-    print(d_s)
+    if len(d_req) == 0: # no requests
+        logger.info('no request, exit')
+        return
 
-    d_p = latest_prices().set_index('symbol').T.to_dict()
-    print(d_p)
+    df_s = f_positions()[['symbol', 'entryPrice', 'positionAmt', 'unRealizedProfit', 'leverage']]
+    d_leverages = df_s[['symbol', 'leverage']].set_index('symbol').T.to_dict()
+    d_position = df_s[df_s['entryPrice'] > 0].set_index('symbol').T.to_dict()
+    print(d_position)
+
+    d_prices = latest_prices().set_index('symbol').T.to_dict()
+    print(d_prices)
 
     print('-'*25)
-    get_balance()
-    # for s, v in d_m.items():
-    #     if 'req' in v and v['req'] == v['hlv'] and s not in non_tradable:
-    #         print('* new request')
-    #         if s in d_s: # if already in position
-    #
-    #         else:
-    #             # Trailing price or place order
-    #         print(s, v)
-    #     else:
-    #         # check consistency of current position
-    #         if s in d_s: # we have position
-    #             if v['hlv'] > 0 and d_s[s]['positionAmt'] < 0: # uptrend but we are short
-    #                 print('uptrend but we are short')
-    #                 print(s, v['hlv'], d_s[s]['positionAmt'])
-    #             elif v['hlv'] < 0 and d_s[s]['positionAmt'] > 0:  # downtrend but we are long
-    #                 print('downtrend but we are long')
-    #                 print(s, v['hlv'], d_s[s]['positionAmt'])
-    #             else:
-    #                 print('OK ', s, v['hlv'], d_s[s]['positionAmt'])
+    usd_available = available_usd()
+
+    for s,v in d_req.items():
+        req = v['req']
+
+        # update req prices
+        if req == 1:
+            d_req[s]['reqPrice'] = min(d_req[s]['reqPrice'], d_prices[s]['lastPrice'])
+        else:
+            d_req[s]['reqPrice'] = max(d_req[s]['reqPrice'], d_prices[s]['lastPrice'])
+
+        print('*'*25)
+        print(s)
+        if s in non_tradable:
+            msg = '** Non tradable : {}, clearing request'.format(s)
+            logger.info(msg)
+            del d_req[s]['req']
+            del d_req[s]['reqPrice']
+        else:
+            if req == 1:  # LONG
+                if s in d_position and d_position[s]['positionAmt'] > 0: # do we have long position?
+                    msg = '** Already Long for: {}, clearing request'.format(s)
+                    logger.info(msg)
+                    del d_req[s]['req'] # clear request
+                    del d_req[s]['reqPrice']
+                else:
+                    if d_prices[s]['lastPrice'] > (v['reqPrice'] * (1+safety_percent/100)): # price is more than 2%
+                        if usd_available < 2*trade_amnt: # if no balance, clear request
+                            msg = '** No balance to buy : {}, clearing request'.format(s)
+                            logger.info(msg)
+                            del d_req[s]['req']  # clear request
+                            del d_req[s]['reqPrice']
+                        else:
+                            print('proceed to order long')
+                            # first close short position
+                            amnt1 = get_amount(s, d_prices[s]['lastPrice'], d_leverages[s]['leverage'])
+                            amnt2 = 0
+                            if s in d_position and d_position[s]['positionAmt'] < 0:
+                                amnt2 = abs(d_position[s]['positionAmt'])
+                                msg = '** Closing {} short position... entered: {} , closed: {}, amount: {}, Profit: {}$, change : {}%'.format(s, d_position[s]['entryPrice'], d_prices[s]['lastPrice'], amnt2, d_position[s]['unRealizedProfit'], change_short(d_position[s]['entryPrice'],d_prices[s]['lastPrice'] ))
+                                logger.info(msg)
+                                # calculate profit/loss, log, telegram
+
+                            # place long order
+                            client.futures_create_order(symbol=s, side='BUY', type='MARKET', quantity=amnt1+amnt2)
+                            msg = '** Placing long order: {} for amount of {} at price: {}'.format(s, amnt1, d_prices[s]['lastPrice'])
+                            logger.info(msg)
+                            # notify, log, telegram
+                            del d_req[s]['req']  # clear request
+                            del d_req[s]['reqPrice']
+                    else:
+                        msg = '{} waiting to buy, req: {}, curr: {}'.format(s, d_req[s]['reqPrice'], d_prices[s]['lastPrice'])
+                        logger.info(msg)
+            else: #SHORT
+                if s in d_position and d_position[s]['positionAmt'] < 0: # do we have short position?
+                    msg = '** Already Short for: {}, clearing request'.format(s)
+                    logger.info(msg)
+                    del d_req[s]['req'] # clear request
+                    del d_req[s]['reqPrice']
+                else:
+                    if d_prices[s]['lastPrice'] < (v['reqPrice'] * (1-safety_percent/100)): # price is less than 2%
+                        if usd_available < 2*trade_amnt: # if no balance, clear request
+                            msg = '** No balance to buy : {}, clearing request'.format(s)
+                            logger.info(msg)
+                            del d_req[s]['req']  # clear request
+                            del d_req[s]['reqPrice']
+                        else:
+                            print('proceed to order short')
+                            # first close open position
+                            amnt1 = get_amount(s, d_prices[s]['lastPrice'], d_leverages[s]['leverage'])
+                            amnt2 = 0
+                            if s in d_position and d_position[s]['positionAmt'] > 0:
+                                amnt2 = abs(d_position[s]['positionAmt'])
+                                msg = '** Closing {} long position... entered: {} , closed: {}, amount: {}, Profit: {}$, change : {}%'.format(s, d_position[s]['entryPrice'], d_prices[s]['lastPrice'], amnt2, d_position[s]['unRealizedProfit'], change_short(d_prices[s]['lastPrice'], d_position[s]['entryPrice']))
+                                logger.info(msg)
+                                # calculate profit/loss, log, telegram
+
+                            # place Short order
+                            client.futures_create_order(symbol=s, side='SELL', type='MARKET', quantity=amnt1+amnt2)
+                            msg = '** Placing Short order: {} for amount of {} at price : {}'.format(s, amnt1, d_prices[s]['lastPrice'])
+                            logger.info(msg)
+                            # notify, log, telegram
+                            del d_req[s]['req']  # clear request
+                            del d_req[s]['reqPrice']
+                    else:
+                        msg = '{} waiting to sell, req: {}, curr: {}'.format(s, d_req[s]['reqPrice'], d_prices[s]['lastPrice'])
+                        logger.info(msg)
+                        # do nothing, just wait
+
+    for k,v in d_req.items():
+        d_m[k] = v
+    json.dump(d_m, open(fname_master, 'w+'))
+
+    print(d_req)
+
+
+def snapshot():
+    try:
+        d = client.futures_account()
+        df = pd.DataFrame(d['assets'])
+        df = df[df['asset'] == 'USDT']
+        df['n_assets'] = len(d['positions'])
+        df['n_positions'] = len([x for x in d['positions'] if float(x['entryPrice']) > 0])
+        df['time'] = dt.now().strftime("%Y-%m-%d %H:%M")
+        df.to_sql('snap_USDT', con, index=None, if_exists='append')
+        msg = '* snapshot taken'
+        logger.info(msg)
+    except Exception as e:
+        logger.exception(e)
 
 
 
 if __name__ == '__main__':
-    trade()
+    snapshot()
